@@ -1,0 +1,1235 @@
+,Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,New_Price
+0.0,Maruti Alto K10 LXI CNG,Delhi,2014.0,40929.0,CNG,Manual,First,32.26,998.0,58.2,4.0,nan
+1.0,Maruti Alto 800 2016-2019 LXI,Coimbatore,2013.0,54493.0,Petrol,Manual,Second,24.7,796.0,47.3,5.0,nan
+2.0,Toyota Innova Crysta Touring Sport 2.4 MT,Mumbai,2017.0,34000.0,Diesel,Manual,First,13.68,2393.0,147.8,7.0,25.27
+3.0,Toyota Etios Liva GD,Hyderabad,2012.0,139000.0,Diesel,Manual,First,23.59,1364.0,null bhp,5.0,nan
+4.0,Hyundai i20 Magna,Mumbai,2014.0,29000.0,Petrol,Manual,First,18.5,1197.0,82.85,5.0,nan
+5.0,Mahindra XUV500 W8 2WD,Coimbatore,2016.0,85609.0,Diesel,Manual,Second,16.0,2179.0,140.0,7.0,nan
+6.0,Toyota Fortuner 4x2 AT TRD Sportivo,Pune,2015.0,59000.0,Diesel,Automatic,First,12.55,2982.0,168.7,7.0,nan
+7.0,Hyundai EON Era Plus,Jaipur,2013.0,65000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+8.0,Honda City 1.5 S MT,Mumbai,2011.0,66000.0,Petrol,Manual,Second,17.0,1497.0,118.0,5.0,nan
+9.0,Mahindra XUV500 W6 2WD,Coimbatore,2015.0,54684.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+10.0,Audi Q5 2008-2012 2.0 TDI,Mumbai,2012.0,78000.0,Diesel,Automatic,Second,12.8,1968.0,167.6,5.0,nan
+11.0,Hyundai Grand i10 Magna,Jaipur,2016.0,21000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+12.0,Toyota Corolla H5,Chennai,2007.0,90000.0,Petrol,Manual,Third,13.4,1794.0,125.0,5.0,nan
+13.0,Maruti Swift Vdi BSIII,Coimbatore,2008.0,87628.0,Diesel,Manual,First,17.8,1248.0,75.0,5.0,nan
+14.0,Nissan Terrano XL,Mumbai,2014.0,45000.0,Petrol,Manual,First,13.24,1598.0,102.5,5.0,nan
+15.0,BMW X1 sDrive20d,Coimbatore,2013.0,30788.0,Diesel,Automatic,First,17.05,1995.0,184.0,5.0,nan
+16.0,BMW 3 Series GT 320d Luxury Line,Hyderabad,2015.0,39524.0,Diesel,Automatic,First,19.59,1995.0,184.0,5.0,nan
+17.0,Ford Ikon 1.4 TDCi DuraTorq,Chennai,2009.0,140000.0,Diesel,Manual,First,13.8,1399.0,68.0,5.0,nan
+18.0,Maruti Swift AMT ZXI,Kochi,2019.0,15409.0,Petrol,Automatic,First,22.0,1197.0,81.8,5.0,nan
+19.0,Maruti Swift Dzire VXi,Jaipur,2015.0,36502.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+20.0,Maruti Ritz LDi,Pune,2016.0,200000.0,Diesel,Manual,First,23.2,1248.0,73.94,5.0,nan
+21.0,Nissan Micra XV,Delhi,2010.0,70000.0,Petrol,Manual,First,18.06,1198.0,75.0,5.0,nan
+22.0,Maruti Alto 800 2016-2019 LXI,Kochi,2017.0,36701.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+23.0,Skoda Laura 1.8 TSI Ambition,Bangalore,2009.0,72000.0,Petrol,Manual,Second,17.5,nan,nan,nan,nan
+24.0,Honda Civic 2010-2013 1.8 S MT Inspire,Bangalore,2011.0,40000.0,Petrol,Manual,Second,15.5,1799.0,132.0,5.0,nan
+25.0,Ford Ikon 1.3 Flair,Pune,2005.0,47000.0,Petrol,Manual,Second,13.8,1299.0,70.0,5.0,nan
+26.0,Maruti Alto LX,Pune,2006.0,93500.0,Petrol,Manual,Second,19.7,796.0,46.3,5.0,nan
+27.0,Honda Jazz 1.5 V i DTEC,Pune,2015.0,52000.0,Diesel,Manual,First,27.3,1498.0,98.6,5.0,nan
+28.0,Skoda Rapid 1.5 TDI AT Ambition,Delhi,2015.0,55429.0,Diesel,Automatic,Second,21.66,1498.0,103.52,5.0,nan
+29.0,Hyundai i20 1.2 Sportz,Mumbai,2011.0,133000.0,Petrol,Manual,Second,17.0,1197.0,80.0,5.0,nan
+30.0,Toyota Etios Cross 1.4L VD,Chennai,2014.0,70000.0,Diesel,Manual,Second,23.59,1364.0,67.06,5.0,9.27
+31.0,Volkswagen Polo GT TDI,Pune,2014.0,68000.0,Diesel,Manual,First,15.11,1598.0,103.6,5.0,nan
+32.0,Hyundai i10 Era 1.1 iTech SE,Pune,2010.0,71000.0,Petrol,Manual,Second,19.81,1086.0,68.05,5.0,nan
+33.0,Mitsubishi Pajero 2.8 SFX,Chennai,2012.0,121000.0,Diesel,Manual,First,10.5,2835.0,107.2,6.0,nan
+34.0,Maruti Swift Dzire Tour LDI,Kolkata,2015.0,107000.0,Diesel,Manual,First,23.4,1248.0,74.0,5.0,nan
+35.0,Maruti Swift Dzire VXI,Chennai,2015.0,51000.0,Petrol,Manual,First,19.1,1197.0,85.8,5.0,nan
+36.0,Skoda Rapid 1.6 MPI AT Style,Mumbai,2017.0,13500.0,Petrol,Automatic,First,14.84,1598.0,103.52,5.0,14.95
+37.0,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Bangalore,2016.0,13000.0,Petrol,Manual,First,15.29,1591.0,121.3,5.0,nan
+38.0,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Pune,2010.0,81000.0,Diesel,Manual,First,12.8,2494.0,102.0,8.0,nan
+39.0,BMW 5 Series 520d Luxury Line,Mumbai,2012.0,66889.0,Diesel,Automatic,First,22.48,1995.0,190.0,5.0,70.43
+40.0,Maruti Baleno Alpha 1.3,Ahmedabad,2018.0,32000.0,Diesel,Manual,First,27.39,1248.0,74.0,5.0,nan
+41.0,Audi A4 2.0 TDI 177 Bhp Technology Edition,Pune,2013.0,87001.0,Diesel,Automatic,First,17.11,1968.0,174.33,5.0,nan
+42.0,Audi A4 2.0 TDI Multitronic,Hyderabad,2013.0,55000.0,Diesel,Automatic,Second,16.55,1968.0,140.0,5.0,nan
+43.0,Skoda Rapid 1.6 MPI Ambition,Jaipur,2018.0,4000.0,Petrol,Manual,First,15.41,1598.0,103.52,5.0,11.89
+44.0,Maruti Ertiga SHVS VDI,Kochi,2017.0,27778.0,Diesel,Manual,First,24.52,1248.0,88.5,7.0,nan
+45.0,Maruti Ciaz 1.4 Zeta,Mumbai,2017.0,5000.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+46.0,Maruti Ciaz ZXi,Pune,2014.0,72000.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+47.0,Mercedes-Benz A Class A200 CDI Sport,Chennai,2015.0,21000.0,Diesel,Automatic,First,20.0,2143.0,136.0,5.0,nan
+48.0,Toyota Innova 2.5 ZX Diesel 7 Seater,Kochi,2015.0,59299.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+49.0,BMW 3 Series 320d Prestige,Ahmedabad,2014.0,75000.0,Diesel,Automatic,First,18.88,1995.0,184.0,5.0,nan
+50.0,Maruti Alto 800 2016-2019 LXI,Kochi,2019.0,3413.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+51.0,Ford Ecosport 1.5 DV5 MT Titanium,Mumbai,2014.0,62000.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+52.0,Ford Endeavour 3.0L 4X4 AT,Mumbai,2010.0,105001.0,Diesel,Automatic,First,11.4,2953.0,153.86,7.0,nan
+53.0,Audi Q5 2.0 TDI,Mumbai,2013.0,89000.0,Diesel,Automatic,First,14.16,1968.0,174.3,5.0,nan
+54.0,Hyundai Verna 1.6 SX VTVT,Mumbai,2014.0,21000.0,Petrol,Manual,First,17.01,1591.0,121.3,5.0,nan
+55.0,Mahindra XUV500 W8 4WD,Kolkata,2014.0,50000.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+56.0,Maruti Vitara Brezza ZDi,Hyderabad,2016.0,70687.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,11.02
+57.0,Toyota Etios Liva 1.4 VXD,Pune,2016.0,104350.0,Diesel,Manual,First,23.59,1364.0,67.04,5.0,8.94
+58.0,Tata Indigo CS LX (TDI) BS III,Chennai,2011.0,150000.0,Diesel,Manual,Second,19.09,1396.0,69.0,5.0,nan
+59.0,Honda City ZX GXi,Delhi,2008.0,81000.0,Petrol,Manual,First,17.7,1497.0,78.0,5.0,nan
+60.0,Toyota Corolla Altis G,Kolkata,2008.0,89000.0,Petrol,Manual,Second,14.53,1798.0,138.1,5.0,nan
+61.0,Hyundai Grand i10 Asta,Kochi,2017.0,35223.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+62.0,Hyundai i20 Sportz 1.2,Kolkata,2015.0,48000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+63.0,Volkswagen Polo 1.5 TDI Comfortline,Delhi,2015.0,60000.0,Diesel,Manual,First,20.14,1498.0,88.8,5.0,nan
+64.0,Maruti Celerio X VXI Option,Mumbai,2018.0,7000.0,Petrol,Manual,First,23.0,998.0,67.0,5.0,5.78
+65.0,Chevrolet Sail Hatchback 1.2,Kochi,2015.0,47572.0,Petrol,Manual,First,18.2,1199.0,82.5,5.0,nan
+66.0,Mahindra Scorpio VLX Special Edition BS-IV,Delhi,2010.0,72727.0,Diesel,Manual,Second,15.4,2179.0,120.0,8.0,nan
+67.0,Volkswagen Ameo 1.5 TDI Comfortline,Mumbai,2018.0,4708.0,Diesel,Manual,First,21.66,1498.0,108.62,5.0,9.4
+68.0,Maruti Wagon R LXI,Delhi,2009.0,55000.0,Petrol,Manual,Second,18.9,998.0,67.1,5.0,nan
+69.0,Honda Brio S Option MT,Coimbatore,2013.0,44198.0,Petrol,Manual,Second,18.4,1198.0,86.8,5.0,nan
+70.0,Maruti Ertiga VXI,Ahmedabad,2015.0,35000.0,Petrol,Manual,First,16.02,1373.0,93.7,7.0,nan
+71.0,Hyundai Santro Xing GL,Ahmedabad,2013.0,63831.0,Petrol,Manual,First,0.0,1086.0,62.0,5.0,nan
+72.0,Ford Figo Aspire 1.2 Ti-VCT Titanium,Delhi,2017.0,17540.0,Petrol,Manual,First,18.16,1196.0,86.8,5.0,nan
+73.0,Tata Tiago AMT 1.2 Revotron XTA,Mumbai,2017.0,14000.0,Petrol,Automatic,First,23.84,1199.0,84.0,5.0,6.3
+74.0,Hyundai Santro Xing XL,Bangalore,2007.0,47000.0,Petrol,Manual,Second,0.0,1086.0,null bhp,5.0,nan
+75.0,Chevrolet Beat LT,Chennai,2010.0,75422.0,Petrol,Manual,Second,18.6,1199.0,79.4,5.0,nan
+76.0,Nissan Micra Diesel XV,Hyderabad,2011.0,67000.0,Diesel,Manual,Second,23.08,1461.0,63.1,5.0,nan
+77.0,Toyota Innova 2.5 GX (Diesel) 8 Seater,Delhi,2013.0,79999.0,Diesel,Manual,First,12.99,2494.0,100.0,8.0,nan
+78.0,Hyundai Xcent 1.2 VTVT E,Kolkata,2017.0,5044.0,Petrol,Manual,First,20.14,1197.0,81.86,5.0,6.41
+79.0,Maruti Ciaz VXi,Kolkata,2016.0,31601.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+80.0,BMW 5 Series 2013-2017 520d Luxury Line,Delhi,2014.0,70000.0,Diesel,Automatic,First,18.12,1995.0,190.0,5.0,nan
+81.0,Toyota Camry Hybrid 2.5,Ahmedabad,2016.0,16000.0,Petrol,Automatic,First,19.16,2487.0,175.67,5.0,40.62
+82.0,Toyota Corolla Altis D-4D G,Mumbai,2016.0,31700.0,Diesel,Manual,First,21.43,1364.0,87.2,5.0,nan
+83.0,Hyundai Verna 1.6 SX CRDi (O),Kochi,2014.0,76969.0,Diesel,Manual,First,22.32,1582.0,126.32,5.0,nan
+84.0,Volkswagen Vento 1.5 TDI Highline AT,Kolkata,2015.0,37000.0,Diesel,Automatic,First,21.21,1498.0,103.2,5.0,nan
+85.0,Nissan Teana XL,Mumbai,2014.0,23000.0,Petrol,Automatic,First,11.07,2496.0,179.5,5.0,nan
+86.0,Hyundai i20 1.2 Sportz Option,Coimbatore,2014.0,59098.0,Petrol,Manual,Second,17.0,1197.0,80.0,5.0,nan
+87.0,Tata Manza Club Class Safire90 LX,Kochi,2010.0,142299.0,Petrol,Manual,First,13.07,1368.0,88.76,5.0,nan
+88.0,Ford Figo Diesel ZXI,Jaipur,2011.0,75731.0,Diesel,Manual,First,20.0,1399.0,68.0,5.0,nan
+89.0,Hyundai i20 Asta 1.2,Coimbatore,2017.0,69627.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+90.0,Ford Fiesta Classic 1.6 SXI Duratec,Mumbai,2011.0,49000.0,Petrol,Manual,First,15.3,1596.0,99.6,5.0,nan
+91.0,Mercedes-Benz B Class B180 Sports,Mumbai,2015.0,25700.0,Petrol,Automatic,First,11.9,1595.0,120.7,5.0,nan
+92.0,Hyundai i20 Magna,Delhi,2012.0,80800.0,Petrol,Manual,First,18.5,1197.0,82.85,5.0,nan
+93.0,Maruti Swift Dzire VDI,Hyderabad,2013.0,110896.0,Diesel,Manual,First,23.4,1248.0,74.0,5.0,nan
+94.0,Hyundai Santro Xing GLS,Kolkata,2009.0,62261.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+95.0,Maruti Baleno Alpha,Kochi,2017.0,27610.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,8.8
+96.0,Honda Accord 2.4 Elegance M/T,Kochi,2011.0,89219.0,Petrol,Manual,First,10.2,2354.0,180.0,5.0,nan
+97.0,Nissan Micra XL CVT,Hyderabad,2018.0,6700.0,Petrol,Automatic,First,19.34,1198.0,75.94,5.0,nan
+98.0,Maruti Zen Estilo LXI BS IV,Pune,2011.0,51599.0,Petrol,Manual,First,19.0,998.0,67.1,5.0,nan
+99.0,Hyundai Elantra CRDi SX,Kolkata,2013.0,37489.0,Diesel,Manual,First,22.7,1582.0,126.24,5.0,nan
+100.0,Tata Indica V2 DiCOR DLG BS-III,Mumbai,2016.0,98000.0,Diesel,Manual,First,17.5,1396.0,70.0,5.0,nan
+101.0,Tata Nano Lx,Hyderabad,2012.0,25183.0,Petrol,Manual,First,26.0,624.0,35.0,4.0,nan
+102.0,BMW 5 Series 2013-2017 520d Luxury Line,Bangalore,2015.0,52100.0,Diesel,Automatic,Second,18.12,1995.0,190.0,5.0,nan
+103.0,Honda Amaze S i-Dtech,Pune,2014.0,60000.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+104.0,Volkswagen Polo Diesel Highline 1.2L,Kolkata,2013.0,51000.0,Diesel,Manual,First,22.07,1199.0,73.9,5.0,nan
+105.0,Tata Indica Vista Quadrajet LX,Mumbai,2012.0,70000.0,Diesel,Manual,First,22.3,1248.0,74.0,5.0,nan
+106.0,Audi Q3 30 TDI S Edition,Jaipur,2015.0,95000.0,Diesel,Manual,First,17.32,1968.0,138.13,5.0,nan
+107.0,Honda City i DTEC SV,Jaipur,2014.0,66346.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+108.0,Honda Amaze SX i-DTEC,Hyderabad,2015.0,69150.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+109.0,Hyundai i20 Asta Option 1.2,Bangalore,2016.0,31000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+110.0,BMW 5 Series 2013-2017 520d Luxury Line,Bangalore,2013.0,49000.0,Diesel,Automatic,Second,18.12,1995.0,190.0,5.0,nan
+111.0,Honda Brio S MT,Kochi,2014.0,63058.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+112.0,Mercedes-Benz New C-Class C 250 CDI Avantgarde,Delhi,2016.0,22000.0,Diesel,Automatic,First,19.71,2143.0,201.15,5.0,nan
+113.0,Volkswagen Polo 1.2 MPI Highline,Coimbatore,2015.0,73026.0,Petrol,Manual,First,16.47,1198.0,74.0,5.0,nan
+114.0,Hyundai i10 Magna AT,Coimbatore,2011.0,21762.0,Petrol,Automatic,Second,19.2,1197.0,80.0,5.0,nan
+115.0,Hyundai Verna 1.6 SX VTVT,Coimbatore,2018.0,29738.0,Petrol,Manual,First,17.01,1591.0,121.3,5.0,nan
+116.0,Hyundai i20 1.2 Magna Executive,Mumbai,2018.0,16053.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+117.0,BMW 5 Series 525d Sedan,Kochi,2012.0,61665.0,Diesel,Automatic,First,16.73,2993.0,218.0,5.0,nan
+118.0,Maruti Swift Dzire Vdi BSIV,Delhi,2015.0,51000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+119.0,Honda BRV i-DTEC V MT,Bangalore,2016.0,34820.0,Diesel,Manual,First,21.9,1498.0,98.6,7.0,15.59
+120.0,Maruti Ertiga VXI,Mumbai,2018.0,12000.0,Petrol,Manual,First,17.5,1373.0,91.1,7.0,nan
+121.0,Maruti Swift Dzire VDI Optional,Hyderabad,2017.0,32287.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+122.0,Toyota Etios Liva GD,Jaipur,2012.0,121134.0,Diesel,Manual,First,23.59,1364.0,null bhp,5.0,nan
+123.0,BMW X3 xDrive20d,Coimbatore,2015.0,74485.0,Diesel,Automatic,First,16.09,1995.0,184.0,5.0,nan
+124.0,Chevrolet Beat Diesel LS,Chennai,2011.0,63000.0,Diesel,Manual,First,25.44,936.0,57.6,5.0,nan
+125.0,Audi Q3 30 TDI Premium FWD,Coimbatore,2018.0,53190.0,Diesel,Automatic,First,18.51,1968.0,147.51,5.0,44.8
+126.0,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Bangalore,2016.0,26900.0,Diesel,Automatic,First,12.0,2987.0,224.0,7.0,nan
+127.0,BMW 3 Series GT 320d Sport Line,Hyderabad,2015.0,40000.0,Diesel,Automatic,First,19.59,1995.0,184.0,5.0,nan
+128.0,Hyundai Grand i10 Asta Option,Coimbatore,2016.0,40587.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+129.0,Hyundai Grand i10 Asta,Hyderabad,2015.0,27000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+130.0,Toyota Etios Liva VD,Coimbatore,2016.0,29108.0,Diesel,Manual,First,23.59,1364.0,67.04,5.0,nan
+131.0,Datsun GO T Petrol,Mumbai,2015.0,18000.0,Petrol,Manual,First,19.83,1198.0,67.0,5.0,5.74
+132.0,Maruti Ignis 1.2 Alpha,Kolkata,2017.0,10500.0,Petrol,Manual,First,20.89,1197.0,81.8,5.0,7.43
+133.0,Maruti A-Star Zxi,Chennai,2009.0,60000.0,Petrol,Manual,Third,19.0,998.0,66.1,5.0,nan
+134.0,Honda Civic 2010-2013 1.8 V AT Sunroof,Pune,2011.0,61000.0,Petrol,Automatic,Third,13.9,1799.0,130.3,5.0,nan
+135.0,Maruti Alto 800 LXI,Kolkata,2017.0,5000.0,Petrol,Manual,First,22.74,796.0,47.3,5.0,nan
+136.0,Jaguar XE 2.0L Diesel Prestige,Pune,2018.0,24001.0,Diesel,Automatic,First,13.6,1999.0,177.0,5.0,52.96
+137.0,Hyundai i20 1.4 CRDi Sportz,Hyderabad,2011.0,76000.0,Diesel,Manual,First,23.0,1396.0,90.0,5.0,nan
+138.0,Ford EcoSport 1.0 Ecoboost Titanium Plus,Hyderabad,2014.0,56000.0,Petrol,Manual,First,18.88,999.0,123.24,5.0,nan
+139.0,Mahindra KUV 100 mFALCON G80 K4 5str,Mumbai,2016.0,30000.0,Petrol,Manual,First,18.15,1198.0,82.0,5.0,nan
+140.0,Maruti Vitara Brezza VDi Option,Hyderabad,2017.0,44263.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,nan
+141.0,Ford Figo Diesel ZXI,Hyderabad,2011.0,97899.0,Diesel,Manual,First,20.0,1399.0,68.0,5.0,nan
+142.0,Volkswagen Vento Diesel Highline,Jaipur,2011.0,157301.0,Diesel,Manual,Second,20.54,1598.0,103.6,5.0,nan
+143.0,Ford Fiesta 1.4 SXI Duratorq,Jaipur,2008.0,135000.0,Diesel,Manual,First,17.8,1399.0,null bhp,5.0,nan
+144.0,Fiat Avventura FIRE Dynamic,Pune,2016.0,35000.0,Petrol,Manual,Second,14.4,1368.0,88.8,5.0,nan
+145.0,Honda Civic 2006-2010 1.8 V MT,Pune,2009.0,106000.0,Petrol,Manual,First,13.5,1799.0,130.0,5.0,nan
+146.0,Honda CR-V Diesel,Kolkata,2016.0,121590.0,Diesel,Manual,First,18.0,2000.0,148.0,5.0,nan
+147.0,Maruti Wagon R LXI,Delhi,2012.0,64692.0,Petrol,Manual,First,22.5,998.0,67.04,5.0,4.59
+148.0,Hyundai i10 Magna,Mumbai,2010.0,41000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+149.0,Volkswagen Ameo 1.5 TDI Highline AT,Coimbatore,2018.0,25143.0,Diesel,Automatic,First,22.0,1498.0,108.495,5.0,nan
+150.0,Volkswagen Vento Diesel Highline,Ahmedabad,2011.0,51000.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+151.0,Hyundai Accent CRDi,Pune,2005.0,109000.0,Diesel,Manual,Second,13.1,1493.0,82.0,5.0,nan
+152.0,Ford Ecosport 1.5 DV5 MT Titanium Optional,Kochi,2015.0,69062.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+153.0,Jaguar XF 2.2 Litre Luxury,Kochi,2015.0,34386.0,Diesel,Automatic,First,16.36,2179.0,187.7,5.0,nan
+154.0,Maruti Baleno Alpha 1.2,Delhi,2016.0,20185.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,nan
+155.0,Hyundai Grand i10 CRDi Magna,Hyderabad,2013.0,41585.0,Diesel,Manual,First,24.0,1120.0,70.0,5.0,nan
+156.0,Hyundai EON Era,Kolkata,2011.0,24000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+157.0,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Bangalore,2016.0,40000.0,Diesel,Automatic,First,15.0,2143.0,204.0,5.0,nan
+158.0,Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2012.0,37000.0,Diesel,Automatic,First,0.0,2987.0,165.0,5.0,nan
+159.0,Ford EcoSport 1.5 Diesel Titanium,Chennai,2015.0,67630.0,Diesel,Manual,First,23.0,1498.0,98.96,5.0,11.48
+160.0,Maruti Celerio VXI AT,Coimbatore,2016.0,24192.0,Petrol,Automatic,First,23.1,998.0,67.04,5.0,nan
+161.0,Maruti Vitara Brezza VDi Option,Hyderabad,2017.0,32248.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,nan
+162.0,Mahindra Xylo E9,Mumbai,2013.0,28000.0,Diesel,Manual,First,13.0,2179.0,120.0,8.0,nan
+163.0,Hyundai Creta 1.6 SX Automatic,Kochi,2018.0,36471.0,Petrol,Automatic,First,14.8,1591.0,121.3,5.0,15.93
+164.0,Honda Mobilio V i VTEC,Kochi,2015.0,69689.0,Petrol,Manual,First,17.3,1497.0,117.3,7.0,nan
+165.0,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Kochi,2015.0,69095.0,Diesel,Automatic,First,11.3,2987.0,254.8,7.0,nan
+166.0,Hyundai i20 Magna,Kolkata,2010.0,46000.0,Petrol,Manual,First,18.5,1197.0,80.0,5.0,nan
+167.0,Mercedes-Benz S Class 2005 2013 S 350 L,Mumbai,2008.0,65000.0,Petrol,Automatic,Third,10.13,3498.0,364.9,5.0,nan
+168.0,Volkswagen Vento 1.5 TDI Highline,Chennai,2015.0,119258.0,Diesel,Manual,First,20.64,1498.0,108.5,5.0,14.32
+169.0,Mercedes-Benz E-Class E250 CDI Avantgrade,Bangalore,2015.0,38339.0,Diesel,Automatic,First,13.0,2143.0,201.1,5.0,nan
+170.0,Toyota Etios V,Mumbai,2012.0,59503.0,Petrol,Manual,First,16.78,1496.0,88.73,5.0,nan
+171.0,Tata Indica Vista Aqua TDI BSIII,Chennai,2010.0,93600.0,Diesel,Manual,Third,17.0,1405.0,71.0,5.0,nan
+172.0,Volkswagen Passat 1.8 TSI MT,Coimbatore,2011.0,58865.0,Petrol,Manual,First,14.3,1798.0,160.0,5.0,nan
+173.0,Maruti Alto LXi,Coimbatore,2012.0,64631.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+174.0,Skoda Laura 1.9 TDI MT Elegance,Pune,2007.0,124298.0,Diesel,Manual,Second,17.0,1896.0,105.0,5.0,nan
+175.0,Maruti Wagon R LX,Jaipur,2003.0,50000.0,Petrol,Manual,Second,18.9,998.0,67.1,5.0,nan
+176.0,Nissan Sunny 2011-2014 Diesel XV,Kolkata,2013.0,40001.0,Diesel,Manual,First,21.64,1461.0,84.8,5.0,nan
+177.0,Honda Brio VX,Bangalore,2015.0,62659.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+178.0,Hyundai i10 Sportz,Kochi,2014.0,68138.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+179.0,Mercedes-Benz M-Class ML 250 CDI,Mumbai,2014.0,34000.0,Diesel,Automatic,First,15.26,2143.0,203.2,5.0,nan
+180.0,Volkswagen Vento Petrol Comfortline,Mumbai,2013.0,67000.0,Petrol,Manual,First,15.04,1598.0,103.6,5.0,nan
+181.0,Honda Mobilio S i DTEC,Delhi,2015.0,64141.0,Diesel,Manual,First,24.2,1498.0,98.6,7.0,nan
+182.0,Maruti Alto LXI,Kolkata,2019.0,1000.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,3.99
+183.0,Mercedes-Benz E-Class E250 CDI Avantgrade,Mumbai,2013.0,42000.0,Diesel,Automatic,First,13.0,2143.0,201.1,5.0,nan
+184.0,Honda City ZX VTEC Plus,Coimbatore,2009.0,76677.0,Petrol,Manual,Third,16.9,1497.0,100.0,5.0,nan
+185.0,Audi A8 L 3.0 TDI quattro,Kochi,2013.0,66848.0,Diesel,Automatic,First,11.8,2967.0,246.7,5.0,nan
+186.0,Hyundai Santro Xing GL,Ahmedabad,2007.0,78000.0,Petrol,Manual,First,0.0,1086.0,62.0,5.0,nan
+187.0,Maruti Swift Dzire VDi,Delhi,2010.0,111166.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+188.0,Hyundai Verna CRDi ABS,Chennai,2007.0,76000.0,Diesel,Manual,First,18.1,1493.0,110.0,5.0,nan
+189.0,Audi Q5 2008-2012 2.0 TDI,Coimbatore,2012.0,94049.0,Diesel,Automatic,First,12.8,1968.0,167.6,5.0,nan
+190.0,BMW X1 sDrive20d,Ahmedabad,2014.0,47000.0,Diesel,Automatic,First,17.05,1995.0,184.0,5.0,nan
+191.0,Tata Indica DLS,Chennai,2006.0,140000.0,Diesel,Manual,Second,13.5,1405.0,null bhp,5.0,nan
+192.0,Tata Nano XT,Delhi,2015.0,20047.0,Petrol,Manual,First,23.9,624.0,37.48,4.0,nan
+193.0,BMW 7 Series 730Ld DPE Signature,Chennai,2017.0,16000.0,Diesel,Automatic,First,16.77,2993.0,261.49,5.0,1.58 Cr
+194.0,Honda Brio 1.2 S MT,Chennai,2012.0,27000.0,Petrol,Manual,First,18.5,1198.0,86.8,5.0,6.15
+195.0,Maruti Alto 800 2016-2019 LXI,Mumbai,2018.0,1001.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+196.0,Hyundai i20 1.2 Sportz,Kolkata,2010.0,89312.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+197.0,Hindustan Motors Contessa 2.0 DSL,Pune,1996.0,65000.0,Diesel,Manual,Second,14.1,1995.0,null bhp,5.0,nan
+198.0,Renault Duster 110PS Diesel RxZ,Pune,2012.0,93000.0,Diesel,Manual,Second,19.01,1461.0,108.45,5.0,nan
+199.0,Maruti Swift Dzire VDI,Kolkata,2013.0,48000.0,Diesel,Manual,First,23.4,1248.0,74.0,5.0,nan
+200.0,Maruti Dzire ZDI,Coimbatore,2014.0,64917.0,Diesel,Manual,First,28.4,1248.0,73.75,5.0,8.95
+201.0,Honda City i VTEC V,Jaipur,2017.0,19678.0,Petrol,Manual,First,17.8,1497.0,117.3,5.0,nan
+202.0,Jaguar XF Diesel,Kolkata,2014.0,12000.0,Diesel,Automatic,First,14.74,2993.0,270.9,5.0,nan
+203.0,BMW 3 Series 320d Luxury Line,Delhi,2014.0,41309.0,Diesel,Automatic,First,18.88,1995.0,184.0,5.0,nan
+204.0,BMW 3 Series Luxury Line,Coimbatore,2018.0,25038.0,Diesel,Automatic,First,21.76,1995.0,190.0,5.0,62.07
+205.0,Chevrolet Beat Diesel LS,Coimbatore,2016.0,68673.0,Diesel,Manual,First,25.44,936.0,56.3,5.0,nan
+206.0,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018.0,26343.0,Diesel,Automatic,First,19.27,2143.0,167.62,5.0,nan
+207.0,Maruti Omni E 8 Str STD,Bangalore,2005.0,81245.0,Petrol,Manual,Fourth & Above,16.8,796.0,34.2,8.0,nan
+208.0,Nissan Micra Diesel XV,Delhi,2012.0,62100.0,Diesel,Manual,First,23.08,1461.0,63.1,5.0,nan
+209.0,Volkswagen Vento Petrol Highline,Pune,2013.0,104000.0,Petrol,Manual,First,15.04,1598.0,103.6,5.0,nan
+210.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Coimbatore,2014.0,114831.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+211.0,Fiat Linea Dynamic,Mumbai,2010.0,46000.0,Petrol,Manual,First,14.6,1368.0,88.7,5.0,nan
+212.0,Hyundai Verna 1.6 SX,Jaipur,2014.0,80000.0,Diesel,Manual,First,22.32,1582.0,126.32,5.0,nan
+213.0,Hyundai i20 Active 1.2 S,Kolkata,2016.0,9201.0,Petrol,Manual,First,17.19,1197.0,81.86,5.0,nan
+214.0,Honda Brio V MT,Kochi,2013.0,55311.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+215.0,Honda Mobilio RS Option i DTEC,Coimbatore,2015.0,58217.0,Diesel,Manual,First,24.5,1498.0,98.6,7.0,nan
+216.0,Mitsubishi Pajero Sport 4X4,Delhi,2013.0,70655.0,Diesel,Manual,First,13.5,2477.0,175.56,7.0,31.93
+217.0,Hyundai i10 Magna,Kolkata,2015.0,46000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+218.0,Tata Manza Club Class Quadrajet90 LS,Pune,2014.0,125000.0,Diesel,Manual,First,21.02,1248.0,88.8,5.0,nan
+219.0,Renault Duster Adventure Edition,Mumbai,2014.0,59000.0,Diesel,Manual,First,19.01,1461.0,108.45,5.0,nan
+220.0,Hyundai Verna CRDi 1.6 AT SX Plus,Mumbai,2013.0,66000.0,Diesel,Automatic,Second,22.0,1582.0,126.2,5.0,15.88
+221.0,Maruti Ritz VDi,Hyderabad,2009.0,82242.0,Diesel,Manual,First,21.1,1248.0,73.9,5.0,nan
+222.0,Toyota Innova 2.5 V Diesel 8-seater,Hyderabad,2012.0,107281.0,Diesel,Manual,First,12.8,2494.0,102.0,8.0,nan
+223.0,Tata Sumo EX 10/7 Str BSII,Chennai,2015.0,196000.0,Diesel,Manual,Second,12.2,1948.0,68.0,10.0,nan
+224.0,Audi Q3 35 TDI Quattro Premium Plus,Ahmedabad,2015.0,75000.0,Diesel,Automatic,First,15.17,1968.0,181.0,5.0,43.65
+225.0,Fiat Grande Punto 1.2 Emotion,Kolkata,2011.0,11791.0,Petrol,Manual,First,16.2,1172.0,68.0,5.0,nan
+226.0,Hyundai Elantra SX,Ahmedabad,2013.0,46000.0,Petrol,Manual,First,16.3,1797.0,147.5,5.0,nan
+227.0,Volkswagen Polo Diesel Trendline 1.2L,Pune,2011.0,81000.0,Diesel,Manual,Second,22.07,1199.0,73.9,5.0,nan
+228.0,Toyota Etios Cross 1.2L G,Coimbatore,2015.0,46950.0,Petrol,Manual,First,17.71,1197.0,78.8,5.0,8.23
+229.0,Hyundai Grand i10 Asta Option,Chennai,2017.0,18000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+230.0,Mahindra Scorpio S4 7 Seater,Coimbatore,2016.0,95942.0,Diesel,Manual,First,15.4,2179.0,120.0,7.0,nan
+231.0,Maruti Ciaz VXi Plus,Kochi,2016.0,42925.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+232.0,Ford Figo Petrol Titanium,Hyderabad,2014.0,33750.0,Petrol,Manual,First,15.6,1196.0,70.02,5.0,nan
+233.0,Mini Cooper S,Mumbai,2016.0,14000.0,Petrol,Automatic,First,13.6,1598.0,181.0,4.0,nan
+234.0,Hyundai Creta 1.6 CRDi SX,Bangalore,2015.0,29000.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+235.0,Mahindra XUV500 W8 2WD,Kochi,2015.0,67365.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+236.0,Mahindra XUV500 W8 2WD,Coimbatore,2014.0,67791.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+237.0,Mahindra Thar CRDe AC,Hyderabad,2016.0,20000.0,Diesel,Manual,First,16.55,2498.0,105.0,6.0,nan
+238.0,Maruti Swift Dzire VDi,Jaipur,2011.0,90198.0,Diesel,Manual,Second,19.3,1248.0,73.9,5.0,nan
+239.0,Hyundai i10 Sportz 1.1L,Pune,2010.0,77000.0,Petrol,Manual,First,19.81,1086.0,68.05,5.0,nan
+240.0,Maruti Ciaz VXi,Kochi,2017.0,42520.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+241.0,Maruti Wagon R LXI DUO BSIII,Jaipur,2009.0,87829.0,LPG,Manual,First,17.3,1061.0,57.5,5.0,nan
+242.0,Maruti Baleno Delta CVT,Ahmedabad,2017.0,21701.0,Petrol,Automatic,First,21.4,1197.0,83.1,5.0,8.57
+243.0,Maruti Alto LX BSIII,Coimbatore,2008.0,86033.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+244.0,Hyundai Xcent 1.2 Kappa S Option,Mumbai,2015.0,25000.0,Petrol,Manual,First,19.1,1197.0,81.86,5.0,nan
+245.0,Toyota Corolla Altis Diesel D4DG,Kolkata,2011.0,45000.0,Diesel,Manual,First,21.43,1364.0,87.2,5.0,nan
+246.0,Volkswagen Polo Petrol Highline 1.2L,Coimbatore,2018.0,22987.0,Petrol,Manual,First,16.47,1198.0,73.9,5.0,nan
+247.0,Hyundai i10 Era,Jaipur,2009.0,48725.0,Petrol,Manual,First,19.81,1086.0,68.05,5.0,nan
+248.0,Hyundai Grand i10 1.2 Kappa Sportz,Hyderabad,2013.0,42500.0,Petrol,Manual,First,18.9,1197.0,81.86,5.0,7.19
+249.0,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2014.0,35000.0,Petrol,Automatic,First,17.1,1591.0,121.4,5.0,nan
+250.0,Ford Fiesta 1.4 SXi TDCi ABS,Bangalore,2014.0,56000.0,Diesel,Manual,Second,17.8,1399.0,68.0,5.0,nan
+251.0,Tata Xenon XT EX 4X2,Hyderabad,2014.0,10000.0,Diesel,Manual,First,13.49,2179.0,138.03,5.0,nan
+252.0,Maruti Alto K10 2010-2014 VXI,Mumbai,2010.0,15669.0,Petrol,Manual,First,20.92,998.0,67.1,5.0,nan
+253.0,Audi A6 2011-2015 35 TDI Premium,Kochi,2016.0,55331.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+254.0,Renault Duster 85PS Diesel RxL Optional,Pune,2015.0,44535.0,Diesel,Manual,First,20.46,1461.0,83.8,5.0,nan
+255.0,Mahindra Thar 4X4,Delhi,2012.0,74000.0,Diesel,Manual,First,16.55,2498.0,105.0,7.0,nan
+256.0,Toyota Innova 2.5 GX (Diesel) 7 Seater,Delhi,2014.0,77901.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+257.0,Maruti Swift Dzire VXi,Kolkata,2010.0,58186.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+258.0,Chevrolet Aveo 1.6 LT,Mumbai,2010.0,30000.0,Petrol,Manual,First,14.2,1598.0,102.0,5.0,nan
+259.0,Toyota Etios GD,Bangalore,2012.0,90000.0,Diesel,Manual,First,23.59,1364.0,null bhp,5.0,nan
+260.0,Jaguar XE Portfolio,Coimbatore,2018.0,14730.0,Petrol,Automatic,First,13.5,1999.0,246.74,5.0,56.98
+261.0,Maruti Alto LXi,Jaipur,2013.0,40000.0,Petrol,Manual,Second,19.7,796.0,46.3,5.0,nan
+262.0,Chevrolet Aveo U-VA 1.2 LS,Chennai,2007.0,88107.0,Petrol,Manual,Second,15.26,1150.0,74.9,5.0,nan
+263.0,Volkswagen Vento 1.5 TDI Highline,Delhi,2012.0,53226.0,Diesel,Manual,Second,20.64,1498.0,108.5,5.0,14.13
+264.0,Maruti Swift VDI BSIV,Hyderabad,2013.0,76000.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+265.0,Toyota Innova 2.5 V Diesel 8-seater,Hyderabad,2008.0,200000.0,Diesel,Manual,Second,12.8,2494.0,102.0,8.0,nan
+266.0,Mercedes-Benz E-Class 2009-2013 E250 CDI Avantgarde,Hyderabad,2013.0,73000.0,Diesel,Automatic,First,14.21,2143.0,203.0,5.0,nan
+267.0,Hyundai Accent GLE 1,Jaipur,2009.0,77200.0,Petrol,Manual,Second,13.2,1495.0,94.0,5.0,nan
+268.0,Audi A4 New 2.0 TDI Multitronic,Delhi,2012.0,67000.0,Diesel,Automatic,Second,15.2,1968.0,140.8,5.0,nan
+269.0,Chevrolet Tavera LS B3 10 Seats BSIII,Hyderabad,2005.0,150000.0,Diesel,Manual,Second,14.8,2499.0,80.0,10.0,nan
+270.0,Mahindra Xylo E8 ABS BS IV,Jaipur,2009.0,145278.0,Diesel,Manual,Second,11.68,2498.0,112.0,8.0,nan
+271.0,Hyundai i20 Active SX Diesel,Chennai,2015.0,62083.0,Diesel,Manual,First,21.19,1396.0,88.76,5.0,11.48
+272.0,Honda Civic 2006-2010 1.8 V MT,Pune,2010.0,61696.0,Petrol,Manual,First,13.5,1799.0,130.0,5.0,nan
+273.0,Ford EcoSport 1.5 Diesel Titanium,Ahmedabad,2017.0,28000.0,Diesel,Manual,First,23.0,1498.0,98.96,5.0,11.2
+274.0,Mercedes-Benz New C-Class 220 CDI AT,Coimbatore,2013.0,50142.0,Diesel,Automatic,First,14.84,2143.0,170.0,5.0,nan
+275.0,Skoda Superb Elegance 1.8 TSI AT,Mumbai,2014.0,45000.0,Petrol,Automatic,First,13.7,1798.0,157.75,5.0,nan
+276.0,Skoda Rapid 1.5 TDI Elegance,Pune,2014.0,97513.0,Diesel,Manual,First,21.14,1498.0,103.52,5.0,nan
+277.0,Mercedes-Benz E-Class 2009-2013 E200 CGI Blue Efficiency,Mumbai,2011.0,55000.0,Petrol,Automatic,Second,12.3,1796.0,185.0,5.0,nan
+278.0,Maruti 800 AC,Hyderabad,2004.0,82000.0,Petrol,Manual,Second,16.1,796.0,37.0,4.0,nan
+279.0,Maruti Swift LDI,Delhi,2013.0,71501.0,Diesel,Manual,First,22.9,1248.0,74.0,5.0,nan
+280.0,Honda BR-V i-DTEC S MT,Hyderabad,2017.0,23000.0,Diesel,Manual,First,21.9,1498.0,98.6,7.0,14.13
+281.0,Audi A6 2011-2015 2.0 TDI Technology,Kochi,2015.0,66095.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+282.0,Toyota Fortuner 3.0 Diesel,Mumbai,2014.0,49500.0,Diesel,Manual,First,11.5,2982.0,171.0,7.0,nan
+283.0,Toyota Camry MT with Moonroof,Chennai,2009.0,90000.0,Petrol,Manual,First,13.4,2362.0,164.7,5.0,nan
+284.0,Maruti Ignis 1.2 Delta,Mumbai,2017.0,25384.0,Petrol,Manual,First,20.89,1197.0,81.8,5.0,6.41
+285.0,Hyundai Verna 1.6 VTVT S,Delhi,2016.0,27529.0,Petrol,Manual,Second,17.01,1591.0,121.3,5.0,nan
+286.0,Honda City V MT,Kochi,2012.0,69297.0,Petrol,Manual,First,16.8,1497.0,116.3,5.0,nan
+287.0,Honda City 1.5 E MT,Hyderabad,2009.0,66000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+288.0,Mahindra Verito 1.5 D4 BSIV,Hyderabad,2012.0,20000.0,Diesel,Manual,First,21.03,1461.0,65.0,5.0,9.12
+289.0,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Chennai,2015.0,67000.0,Diesel,Automatic,First,11.3,2987.0,254.8,7.0,nan
+290.0,Hyundai EON D Lite Plus,Coimbatore,2015.0,36933.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+291.0,Toyota Innova 2.5 G (Diesel) 8 Seater,Mumbai,2007.0,194000.0,Diesel,Manual,First,12.99,2494.0,100.6,8.0,nan
+292.0,Maruti Ertiga VDI,Kolkata,2013.0,42200.0,Diesel,Manual,First,20.77,1248.0,88.76,7.0,nan
+293.0,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2015.0,53093.0,Diesel,Automatic,Second,12.07,2967.0,241.4,7.0,nan
+294.0,Honda City 1.5 E MT,Pune,2012.0,88000.0,Petrol,Manual,Third,17.0,1497.0,118.0,5.0,nan
+295.0,Maruti Alto K10 LXI,Kochi,2017.0,42954.0,Petrol,Manual,First,24.07,998.0,67.1,5.0,3.91
+296.0,Tata Indica V2 eLX,Chennai,2015.0,106000.0,Diesel,Manual,First,25.0,1396.0,69.0,5.0,nan
+297.0,BMW 5 Series 2013-2017 520d Luxury Line,Kochi,2015.0,41700.0,Diesel,Automatic,First,18.12,1995.0,190.0,5.0,nan
+298.0,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Coimbatore,2018.0,34464.0,Diesel,Automatic,First,19.27,2143.0,170.0,5.0,nan
+299.0,Chevrolet Beat LT,Ahmedabad,2010.0,15000.0,Petrol,Manual,First,17.8,1199.0,76.8,5.0,nan
+300.0,Maruti Zen Estilo LXI BS IV,Pune,2010.0,70000.0,Petrol,Manual,Second,19.0,998.0,67.1,5.0,nan
+301.0,Mahindra XUV500 W8 4WD,Hyderabad,2017.0,119256.0,Diesel,Manual,First,16.0,2179.0,140.0,7.0,nan
+302.0,Honda City 1.5 V MT,Coimbatore,2011.0,50036.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+303.0,Toyota Innova 2.5 VX (Diesel) 7 Seater,Ahmedabad,2013.0,58000.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+304.0,Hyundai i20 1.2 Magna,Pune,2011.0,75000.0,Petrol,Manual,First,18.5,1197.0,80.0,5.0,nan
+305.0,Maruti Alto K10 2010-2014 VXI,Hyderabad,2013.0,53313.0,Petrol,Manual,First,20.92,998.0,67.1,5.0,nan
+306.0,Toyota Innova 2.5 G (Diesel) 8 Seater,Kolkata,2015.0,73000.0,Diesel,Manual,First,12.99,2494.0,100.6,8.0,nan
+307.0,Nissan Micra Diesel XV,Kochi,2013.0,83989.0,Diesel,Manual,First,23.08,1461.0,63.1,5.0,nan
+308.0,Hyundai Creta 1.6 CRDi SX,Chennai,2015.0,86247.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+309.0,Toyota Innova 2.5 G (Diesel) 8 Seater,Mumbai,2016.0,24000.0,Diesel,Manual,First,12.99,2494.0,100.6,8.0,nan
+310.0,Mercedes-Benz E-Class 2009-2013 E250 CDI Blue Efficiency,Hyderabad,2010.0,58000.0,Diesel,Automatic,First,14.21,2143.0,203.0,5.0,nan
+311.0,Hyundai i20 Asta 1.2,Kolkata,2015.0,33000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+312.0,Honda Accord VTi-L (AT),Hyderabad,2005.0,100000.0,Petrol,Automatic,First,11.1,2354.0,142.0,5.0,nan
+313.0,Toyota Innova Crysta 2.4 ZX MT,Hyderabad,2017.0,65896.0,Diesel,Manual,First,13.68,2393.0,147.8,7.0,25.04
+314.0,Hyundai i20 Asta Option 1.4 CRDi,Chennai,2016.0,120000.0,Diesel,Manual,First,22.54,1396.0,88.73,5.0,nan
+315.0,Mahindra Verito Vibe 1.5 dCi D6,Mumbai,2013.0,26000.0,Diesel,Manual,First,20.8,1461.0,64.1,5.0,8.92
+316.0,Maruti Eeco 5 Seater AC,Chennai,2012.0,62300.0,Petrol,Manual,Second,15.1,1196.0,73.0,5.0,5.01
+317.0,Toyota Corolla Altis 1.8 G,Kochi,2012.0,77801.0,Petrol,Manual,First,14.28,1798.0,138.03,5.0,19.01
+318.0,Toyota Corolla Altis VL AT,Mumbai,2015.0,42000.0,Petrol,Automatic,First,14.28,1798.0,138.03,5.0,nan
+319.0,Mercedes-Benz A Class A180 Sport,Bangalore,2013.0,35000.0,Petrol,Automatic,Second,15.5,1595.0,120.7,5.0,nan
+320.0,Hyundai i20 Asta 1.4 CRDi,Kolkata,2016.0,30134.0,Diesel,Manual,First,22.54,1396.0,88.73,5.0,nan
+321.0,Honda Accord 2.4 M/T,Delhi,2012.0,79038.0,Petrol,Manual,First,12.8,2354.0,177.6,5.0,nan
+322.0,Honda Accord 2.4 AT,Mumbai,2009.0,80000.0,Petrol,Automatic,Second,11.7,2354.0,177.6,5.0,nan
+323.0,Mahindra Bolero SLE BSIII,Hyderabad,2012.0,75000.0,Diesel,Manual,First,15.96,2523.0,62.1,7.0,nan
+324.0,Maruti Ritz LDi,Bangalore,2010.0,80000.0,Diesel,Manual,First,21.1,1248.0,73.9,5.0,nan
+325.0,Skoda Superb Elegance 1.8 TSI AT,Delhi,2014.0,84419.0,Petrol,Automatic,First,13.7,1798.0,157.75,5.0,nan
+326.0,Honda Amaze S i-Vtech,Kolkata,2013.0,70200.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+327.0,Volkswagen Vento Petrol Highline,Chennai,2013.0,98000.0,Petrol,Manual,Second,15.04,1598.0,103.6,5.0,nan
+328.0,Maruti Ritz LDi,Chennai,2016.0,131503.0,Diesel,Manual,First,23.2,1248.0,73.94,5.0,nan
+329.0,Honda City 1.5 S MT,Jaipur,2011.0,54652.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+330.0,Volkswagen Jetta 2007-2011 1.6 Trendline,Mumbai,2010.0,92000.0,Petrol,Manual,Second,14.0,1595.0,102.0,5.0,nan
+331.0,Ford Figo Petrol ZXI,Kolkata,2010.0,44287.0,Petrol,Manual,First,15.6,1196.0,70.0,5.0,nan
+332.0,Toyota Innova 2.5 G (Diesel) 7 Seater,Pune,2015.0,205000.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+333.0,Hyundai Elite i20 Asta Option,Hyderabad,2015.0,48000.0,Petrol,Manual,First,18.6,1197.0,81.86,5.0,9.45
+334.0,Mahindra KUV 100 mFALCON D75 K2,Mumbai,2016.0,18000.0,Diesel,Manual,First,25.32,1198.0,77.0,6.0,nan
+335.0,Bentley Flying Spur W12,Bangalore,2008.0,31200.0,Petrol,Automatic,Second,10.2,5998.0,616.0,5.0,3.75 Cr
+336.0,Honda City 1.5 V MT,Pune,2009.0,72000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+337.0,Hyundai i20 Magna,Mumbai,2009.0,85000.0,Petrol,Manual,First,18.5,1197.0,80.0,5.0,nan
+338.0,Honda City 1.5 V MT,Kolkata,2010.0,27000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+339.0,Toyota Fortuner 2.8 2WD MT,Mumbai,2012.0,126000.0,Diesel,Manual,First,14.24,2755.0,174.5,7.0,35.16
+340.0,Tata Indica V2 DLS BSIII,Pune,2017.0,50000.0,Diesel,Manual,First,17.88,1405.0,48.21,5.0,nan
+341.0,Honda Amaze S i-Vtech,Mumbai,2013.0,58811.0,Petrol,Manual,Second,18.0,1198.0,86.7,5.0,nan
+342.0,Volkswagen Polo Diesel Highline 1.2L,Pune,2013.0,52196.0,Diesel,Manual,First,22.07,1199.0,73.9,5.0,nan
+343.0,Nissan Micra Active XV,Coimbatore,2017.0,45105.0,Petrol,Manual,First,19.69,1198.0,67.04,5.0,6.78
+344.0,Hyundai Grand i10 Sportz,Hyderabad,2015.0,25160.0,Petrol,Manual,Second,18.9,1197.0,82.0,5.0,nan
+345.0,Tata Tigor 1.2 Revotron XZ Option,Hyderabad,2017.0,18000.0,Petrol,Manual,First,20.3,1199.0,84.0,5.0,nan
+346.0,Honda Accord 2001-2003 2.3 VTI L MT,Bangalore,2007.0,74000.0,Petrol,Manual,First,11.9,2354.0,144.0,5.0,nan
+347.0,Mahindra Xylo E4,Chennai,2009.0,67700.0,Diesel,Manual,First,14.0,2498.0,112.0,7.0,nan
+348.0,Land Rover Freelander 2 S Business Edition,Kochi,2015.0,61062.0,Diesel,Automatic,First,12.39,2179.0,147.51,5.0,nan
+349.0,Toyota Innova 2.5 VX (Diesel) 7 Seater,Kolkata,2016.0,105000.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+350.0,Tata Indigo eCS eLX BS IV,Pune,2013.0,155550.0,Diesel,Manual,First,25.0,1396.0,69.01,5.0,nan
+351.0,Maruti Vitara Brezza VDi Option,Delhi,2016.0,66000.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,nan
+352.0,Honda City 1.5 V MT,Kochi,2012.0,93884.0,Petrol,Manual,Second,17.0,1497.0,118.0,5.0,nan
+353.0,Fiat Linea Emotion (Diesel),Mumbai,2009.0,200000.0,Diesel,Manual,First,20.4,1248.0,91.7,5.0,nan
+354.0,Tata Tiago 1.2 Revotron XZ,Kolkata,2016.0,57200.0,Petrol,Manual,First,23.84,1199.0,84.0,5.0,6.24
+355.0,Volkswagen Polo Diesel Comfortline 1.2L,Hyderabad,2013.0,93568.0,Diesel,Manual,First,22.07,1199.0,73.9,5.0,nan
+356.0,Maruti Wagon R VXI BS IV,Kolkata,2014.0,54000.0,Petrol,Manual,First,20.51,998.0,67.04,5.0,nan
+357.0,Hyundai Creta 1.6 CRDi AT SX Plus,Bangalore,2016.0,40571.0,Diesel,Automatic,First,17.01,1582.0,126.2,5.0,nan
+358.0,Audi A4 35 TDI Technology,Hyderabad,2015.0,59000.0,Diesel,Automatic,First,18.25,1968.0,187.74,5.0,55.61
+359.0,BMW X1 xDrive 20d xLine,Coimbatore,2017.0,17273.0,Diesel,Automatic,First,20.68,1995.0,190.0,5.0,nan
+360.0,Ford Endeavour 3.0L AT 4x2,Mumbai,2011.0,100077.0,Diesel,Automatic,Second,11.4,2953.0,153.86,7.0,nan
+361.0,Hyundai i10 Magna AT,Kochi,2011.0,39934.0,Petrol,Automatic,First,19.2,1197.0,80.0,5.0,nan
+362.0,Maruti Vitara Brezza LDi,Bangalore,2016.0,46000.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,9.42
+363.0,Honda City 1.5 V MT,Coimbatore,2016.0,30842.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+364.0,Mercedes-Benz New C-Class 200 K AT,Mumbai,2005.0,65000.0,Petrol,Automatic,Second,11.7,1796.0,178.0,5.0,nan
+365.0,Volvo XC90 2007-2015 D5 AWD,Bangalore,2016.0,70000.0,Diesel,Manual,First,11.1,2400.0,200.0,7.0,nan
+366.0,Toyota Fortuner 3.0 Diesel,Chennai,2011.0,150152.0,Diesel,Manual,Second,11.5,2982.0,171.0,7.0,nan
+367.0,Nissan Teana 230jM,Coimbatore,2009.0,67038.0,Petrol,Automatic,First,9.1,2349.0,null bhp,5.0,nan
+368.0,Hyundai Santro Xing GLS CNG,Bangalore,2011.0,43985.0,CNG,Manual,First,11.88,1086.0,62.1,5.0,nan
+369.0,BMW X6 xDrive30d,Coimbatore,2014.0,58598.0,Diesel,Automatic,First,11.2,2993.0,241.0,4.0,nan
+370.0,Tata Indigo CS eVX,Pune,2016.0,100000.0,Diesel,Manual,First,25.0,1396.0,69.01,5.0,nan
+371.0,Audi Q5 30 TDI quattro Premium Plus,Jaipur,2016.0,35000.0,Diesel,Automatic,First,14.16,1968.0,174.3,5.0,nan
+372.0,Hyundai i10 Sportz 1.2,Pune,2008.0,84500.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+373.0,Maruti Baleno Delta 1.2,Kolkata,2018.0,18006.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,nan
+374.0,Maruti Swift VDI,Hyderabad,2013.0,99000.0,Diesel,Manual,First,28.4,1248.0,74.0,5.0,8.44
+375.0,Maruti Eeco 5 Seater AC,Delhi,2014.0,51200.0,Petrol,Manual,First,15.1,1196.0,73.0,5.0,4.56
+376.0,Toyota Land Cruiser Prado VX L,Pune,2014.0,130000.0,Diesel,Automatic,First,11.0,2982.0,170.3,7.0,nan
+377.0,Hyundai Tucson 2.0 e-VGT 4WD AT GLS,Ahmedabad,2017.0,25000.0,Diesel,Automatic,First,16.38,1995.0,182.46,5.0,29.9
+378.0,Maruti Baleno Delta,Kochi,2017.0,32352.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,7.12
+379.0,Hyundai i10 Sportz 1.2,Bangalore,2011.0,20000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+380.0,Audi A4 2.0 TDI,Bangalore,2013.0,46000.0,Diesel,Automatic,Second,16.55,1968.0,147.51,5.0,nan
+381.0,Maruti Dzire AMT ZXI Plus,Mumbai,2018.0,12500.0,Petrol,Automatic,First,22.0,1197.0,81.8,5.0,9.94
+382.0,Toyota Innova 2.5 GX 8 STR,Delhi,2011.0,53138.0,Diesel,Manual,Third,12.8,2494.0,102.0,8.0,nan
+383.0,Maruti Swift Dzire Tour LDI,Pune,2013.0,170000.0,Diesel,Manual,Second,23.4,1248.0,74.0,5.0,nan
+384.0,Maruti Swift LDI,Kolkata,2012.0,38583.0,Diesel,Manual,First,22.9,1248.0,74.0,5.0,nan
+385.0,Maruti Wagon R VXI AMT Opt,Hyderabad,2016.0,26000.0,Petrol,Automatic,First,22.5,998.0,67.0,5.0,6.44
+386.0,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Coimbatore,2017.0,22865.0,Petrol,Manual,First,15.29,1591.0,121.3,5.0,nan
+387.0,Skoda Laura L and K MT,Kolkata,2013.0,45000.0,Diesel,Manual,First,17.5,1896.0,106.0,5.0,nan
+388.0,Maruti Swift LXI Option,Kochi,2017.0,62889.0,Petrol,Manual,First,20.4,1197.0,81.8,5.0,nan
+389.0,Maruti Omni MPI CARGO BSIV,Pune,2013.0,153000.0,Petrol,Manual,First,16.8,796.0,34.2,5.0,nan
+390.0,Maruti Swift VDI,Ahmedabad,2016.0,67000.0,Diesel,Manual,First,28.4,1248.0,74.0,5.0,7.67
+391.0,Honda Amaze S AT i-Vtech,Mumbai,2014.0,39000.0,Petrol,Automatic,First,15.5,1198.0,86.7,5.0,nan
+392.0,Toyota Corolla H2,Chennai,2006.0,164000.0,Petrol,Manual,Second,13.4,1794.0,125.0,5.0,nan
+393.0,Maruti Swift Dzire Vdi BSIV,Coimbatore,2018.0,57178.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+394.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Delhi,2013.0,40000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+395.0,Chevrolet Spark 1.0 LT,Mumbai,2007.0,40000.0,Petrol,Manual,First,18.0,995.0,62.0,5.0,nan
+396.0,Hyundai Verna CRDi ABS,Mumbai,2007.0,89564.0,Diesel,Manual,Third,18.1,1493.0,110.0,5.0,nan
+397.0,Maruti Ertiga VXI,Delhi,2012.0,66727.0,Petrol,Manual,First,16.02,1373.0,93.7,7.0,nan
+398.0,Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Mumbai,2013.0,75000.0,Diesel,Automatic,Second,15.73,1968.0,174.33,5.0,nan
+399.0,Chevrolet Cruze LTZ AT,Coimbatore,2017.0,31056.0,Diesel,Automatic,First,14.81,1998.0,163.7,5.0,nan
+400.0,Volkswagen Vento Petrol Highline,Pune,2011.0,61000.0,Petrol,Manual,First,15.04,1598.0,103.6,5.0,nan
+401.0,Hyundai Xcent 1.2 Kappa AT SX Option,Kochi,2016.0,34782.0,Petrol,Automatic,First,16.9,1197.0,82.0,5.0,nan
+402.0,Hyundai i10 Sportz 1.2,Coimbatore,2012.0,31736.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+403.0,Nissan Terrano XV D Pre,Pune,2014.0,75000.0,Diesel,Manual,First,19.64,1461.0,108.5,5.0,16.82
+404.0,Mahindra Thar CRDe AC,Mumbai,2014.0,15000.0,Diesel,Manual,First,16.55,2498.0,105.0,6.0,nan
+405.0,Ford Ecosport 1.5 DV5 MT Ambiente,Coimbatore,2016.0,38503.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+406.0,Honda BRV i-DTEC V MT,Coimbatore,2017.0,45353.0,Diesel,Manual,First,21.9,1498.0,98.6,7.0,15.59
+407.0,Land Rover Range Rover HSE,Hyderabad,2015.0,30000.0,Diesel,Automatic,First,12.7,2179.0,187.7,5.0,nan
+408.0,Toyota Etios G,Pune,2011.0,69470.0,Petrol,Manual,Second,17.6,1496.0,88.73,5.0,nan
+409.0,Nissan Teana 230jM,Chennai,2008.0,63288.0,Petrol,Automatic,First,9.1,2349.0,null bhp,5.0,nan
+410.0,Volkswagen Polo ALLSTAR 1.2 MPI,Coimbatore,2017.0,25087.0,Petrol,Manual,First,16.47,1198.0,74.0,5.0,nan
+411.0,Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV,Hyderabad,2015.0,134000.0,Diesel,Manual,First,12.8,2494.0,102.0,7.0,nan
+412.0,Chevrolet Cruze LTZ AT,Coimbatore,2015.0,54955.0,Diesel,Automatic,Third,14.81,1998.0,163.7,5.0,nan
+413.0,Hyundai Verna CRDi 1.6 SX Option,Mumbai,2017.0,28000.0,Diesel,Manual,First,22.0,1582.0,126.2,5.0,15.57
+414.0,Honda Amaze S i-Dtech,Ahmedabad,2015.0,45250.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+415.0,Land Rover Discovery 4 SDV6 SE,Kochi,2012.0,89190.0,Diesel,Automatic,Second,11.4,2993.0,245.41,7.0,nan
+416.0,Honda City i DTec VX Option BL,Coimbatore,2017.0,48184.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+417.0,Maruti Swift Dzire VDI,Kolkata,2015.0,42125.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+418.0,Nissan Micra XV CVT,Coimbatore,2017.0,47052.0,Petrol,Automatic,First,19.15,1198.0,75.94,5.0,9.51
+419.0,Hyundai i10 Sportz 1.2,Mumbai,2011.0,67000.0,Petrol,Manual,Second,20.36,1197.0,78.9,5.0,nan
+420.0,Hyundai Santro GLS I - Euro II,Bangalore,2011.0,43189.0,Petrol,Manual,First,0.0,999.0,null bhp,5.0,nan
+421.0,Maruti Swift Dzire VDI,Pune,2015.0,174889.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+422.0,Maruti Alto LXI,Pune,2004.0,72135.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+423.0,Maruti Vitara Brezza ZDi Plus Dual Tone,Delhi,2017.0,17660.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,11.75
+424.0,Honda Accord 2.4 A/T,Pune,2009.0,120000.0,Petrol,Automatic,First,11.7,2354.0,177.6,5.0,nan
+425.0,Chevrolet Beat LT,Pune,2010.0,29629.0,Petrol,Manual,First,18.6,1199.0,76.8,5.0,nan
+426.0,Maruti Swift VDI BSIV W ABS,Coimbatore,2016.0,69564.0,Diesel,Manual,First,17.8,1248.0,null bhp,5.0,nan
+427.0,Mercedes-Benz GLC 220d 4MATIC Sport,Kochi,2017.0,34848.0,Diesel,Automatic,First,17.9,2143.0,170.0,5.0,63.47
+428.0,Mahindra Xylo D4 BSIV,Kolkata,2013.0,61000.0,Diesel,Manual,First,14.0,2498.0,112.0,8.0,nan
+429.0,Datsun GO Plus T Petrol,Mumbai,2015.0,21000.0,Petrol,Manual,First,19.83,1198.0,67.0,7.0,6.7
+430.0,Jaguar XF 2.2 Litre Luxury,Kochi,2015.0,27912.0,Diesel,Automatic,First,16.36,2179.0,187.7,5.0,nan
+431.0,Maruti SX4 VDI,Kochi,2013.0,62909.0,Diesel,Manual,First,21.5,1248.0,88.8,5.0,nan
+432.0,Maruti Celerio VXI,Kochi,2018.0,33140.0,Petrol,Manual,First,23.1,998.0,67.04,5.0,nan
+433.0,Volkswagen Vento 1.5 TDI Comfortline AT,Hyderabad,2014.0,75000.0,Diesel,Automatic,First,21.21,1498.0,103.2,5.0,nan
+434.0,Ford EcoSport 1.5 TDCi Titanium,Kochi,2017.0,25571.0,Diesel,Manual,First,22.77,1498.0,98.59,5.0,nan
+435.0,Hyundai Santro LS zipDrive Euro I,Chennai,2002.0,120000.0,Petrol,Manual,Fourth & Above,0.0,999.0,null bhp,5.0,nan
+436.0,Maruti Ertiga VDI,Kolkata,2016.0,12020.0,Diesel,Manual,First,20.77,1248.0,88.76,7.0,nan
+437.0,Honda Brio VX AT,Mumbai,2014.0,36665.0,Petrol,Automatic,First,16.5,1198.0,86.8,5.0,nan
+438.0,Mitsubishi Pajero Sport 4X2 AT,Coimbatore,2018.0,41502.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,34.1
+439.0,Mercedes-Benz E-Class 2009-2013 E250 CDI Blue Efficiency,Pune,2011.0,130000.0,Diesel,Automatic,First,14.21,2143.0,203.0,5.0,nan
+440.0,Maruti Swift VDI Optional,Bangalore,2017.0,51000.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+441.0,Hyundai Accent GLE,Pune,2008.0,103000.0,Petrol,Manual,Second,13.2,1495.0,94.0,5.0,nan
+442.0,Audi A4 2.0 TDI,Delhi,2012.0,70000.0,Diesel,Automatic,First,16.55,1968.0,147.51,5.0,nan
+443.0,Honda City 1.5 S MT,Delhi,2010.0,56239.0,Petrol,Manual,Second,17.0,1497.0,118.0,5.0,nan
+444.0,BMW 3 Series 320d Sport,Ahmedabad,2016.0,40000.0,Diesel,Automatic,First,22.69,1995.0,190.0,5.0,nan
+445.0,Renault KWID Climber 1.0 AMT,Kochi,2018.0,19964.0,Petrol,Automatic,First,22.5,999.0,67.0,5.0,5.31
+446.0,Mahindra Bolero VLX CRDe,Coimbatore,2012.0,72246.0,Diesel,Manual,First,13.6,2523.0,63.0,7.0,nan
+447.0,Hyundai Creta 1.6 SX Diesel,Kolkata,2018.0,15000.0,Diesel,Manual,First,20.5,1582.0,126.2,5.0,15.24
+448.0,Tata Nano XT,Bangalore,2016.0,14000.0,Petrol,Manual,Fourth & Above,23.9,624.0,37.48,4.0,nan
+449.0,Volkswagen Polo 1.2 MPI Highline,Pune,2016.0,22764.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+450.0,Volkswagen Passat Diesel Highline 2.0 TDI,Pune,2012.0,65000.0,Diesel,Automatic,First,18.33,1968.0,167.7,5.0,nan
+451.0,Isuzu MU 7 4x2 HIPACK,Kolkata,2016.0,45000.0,Diesel,Manual,First,12.08,2999.0,161.0,7.0,nan
+452.0,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Coimbatore,2017.0,32090.0,Diesel,Automatic,First,13.0,2143.0,204.0,5.0,nan
+453.0,Mahindra XUV500 W8 2WD,Pune,2014.0,83000.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+454.0,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Delhi,2011.0,70000.0,Diesel,Automatic,First,13.0,2143.0,204.0,5.0,nan
+455.0,Mahindra XUV500 W8 2WD,Chennai,2013.0,68000.0,Diesel,Manual,First,16.0,2179.0,140.0,7.0,nan
+456.0,Nissan Sunny 2011-2014 XL,Jaipur,2012.0,105000.0,Petrol,Manual,First,16.95,1498.0,97.7,5.0,nan
+457.0,Hyundai Elantra GT,Hyderabad,2006.0,88000.0,Petrol,Manual,First,13.0,1795.0,127.0,5.0,nan
+458.0,Honda Accord VTi-L AT,Mumbai,2007.0,93000.0,Petrol,Automatic,Second,11.1,2354.0,142.0,5.0,nan
+459.0,Honda City i DTEC SV,Delhi,2014.0,107000.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+460.0,Toyota Fortuner 4x4 MT,Pune,2011.0,141844.0,Diesel,Manual,First,12.55,2982.0,168.5,7.0,nan
+461.0,Nissan Micra XV CVT,Coimbatore,2015.0,32469.0,Petrol,Automatic,First,19.34,1198.0,76.0,5.0,nan
+462.0,Mahindra XUV500 W6 2WD,Kochi,2015.0,56318.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+463.0,Mini Cooper 3 DOOR D,Coimbatore,2017.0,26002.0,Diesel,Automatic,First,20.7,1496.0,113.98,4.0,36.5
+464.0,Maruti Swift VDI BSIV,Pune,2014.0,83000.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+465.0,Chevrolet Beat LS,Pune,2010.0,80000.0,Petrol,Manual,Second,18.6,1199.0,79.4,5.0,nan
+466.0,Maruti Baleno Alpha 1.2,Chennai,2016.0,56474.0,Petrol,Manual,Second,21.4,1197.0,83.1,5.0,nan
+467.0,Mercedes-Benz B Class B180 Sport,Mumbai,2012.0,26000.0,Petrol,Automatic,Second,14.8,1595.0,120.69,5.0,37.03
+468.0,Audi Q5 2008-2012 2.0 TFSI Quattro,Mumbai,2009.0,49000.0,Petrol,Automatic,Second,9.74,1984.0,208.0,5.0,nan
+469.0,Skoda Laura 1.9 TDI AT Ambiente,Kochi,2010.0,64132.0,Diesel,Automatic,Second,17.0,1896.0,105.0,5.0,nan
+470.0,Hyundai Creta 1.6 CRDi SX Option,Hyderabad,2016.0,41810.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+471.0,BMW 7 Series 730Ld,Mumbai,2013.0,60000.0,Diesel,Automatic,First,16.46,2993.0,258.0,5.0,nan
+472.0,Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016.0,22177.0,Diesel,Automatic,First,0.0,2987.0,165.0,5.0,nan
+473.0,Ford Figo Diesel ZXI,Chennai,2014.0,100000.0,Diesel,Manual,First,20.0,1399.0,68.05,5.0,nan
+474.0,Skoda Laura Ambiente 2.0 TDI CR AT,Pune,2012.0,75000.0,Diesel,Automatic,First,20.0,1968.0,138.1,5.0,nan
+475.0,Hyundai i20 1.4 CRDi Magna,Mumbai,2011.0,68000.0,Diesel,Manual,First,21.9,1396.0,90.0,5.0,nan
+476.0,Toyota Innova 2.5 G (Diesel) 7 Seater,Kochi,2016.0,43518.0,Diesel,Manual,First,12.99,2494.0,100.0,7.0,nan
+477.0,Maruti A-Star AT Vxi Aktiv,Pune,2012.0,39100.0,Petrol,Automatic,First,16.98,998.0,66.1,5.0,nan
+478.0,Hyundai Verna 1.6 VTVT,Delhi,2011.0,58000.0,Petrol,Manual,First,17.01,1591.0,121.3,5.0,nan
+479.0,Honda City 1.5 E MT,Mumbai,2010.0,52000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+480.0,BMW 3 Series 320d,Jaipur,2014.0,80000.0,Diesel,Automatic,First,13.2,1995.0,170.0,5.0,nan
+481.0,Maruti Zen Estilo VXI BSIII,Jaipur,2006.0,96000.0,Petrol,Manual,Second,18.2,998.0,67.1,5.0,nan
+482.0,Skoda Superb Elegance 1.8 TSI AT,Delhi,2010.0,63000.0,Petrol,Automatic,First,13.7,1798.0,157.75,5.0,nan
+483.0,Audi Q3 2012-2015 35 TDI Quattro Premium,Hyderabad,2014.0,50000.0,Diesel,Automatic,First,15.73,1968.0,174.33,5.0,nan
+484.0,Hyundai EON D Lite Plus,Hyderabad,2014.0,15322.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+485.0,Honda Brio E MT,Jaipur,2012.0,47000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+486.0,Volkswagen Vento Diesel Highline,Chennai,2011.0,76041.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+487.0,Hyundai Accent GLE,Kolkata,2009.0,46000.0,Petrol,Manual,First,13.2,1495.0,94.0,5.0,nan
+488.0,Mahindra Bolero SLX,Jaipur,2013.0,160000.0,Diesel,Manual,Second,15.96,2523.0,62.1,7.0,10.86
+489.0,Maruti Celerio ZDi,Bangalore,2015.0,17000.0,Diesel,Manual,Second,27.62,793.0,47.0,5.0,nan
+490.0,Hyundai Grand i10 CRDi Magna,Hyderabad,2014.0,56000.0,Diesel,Manual,First,24.0,1120.0,70.0,5.0,nan
+491.0,Hyundai Getz GVS,Mumbai,2005.0,35000.0,Petrol,Manual,First,15.3,1341.0,61.0,5.0,nan
+492.0,Toyota Innova 2.5 G (Diesel) 7 Seater,Coimbatore,2015.0,54278.0,Diesel,Manual,First,12.99,2494.0,100.6,7.0,nan
+493.0,Hyundai Xcent 1.2 CRDi SX,Kolkata,2015.0,39000.0,Diesel,Manual,First,25.4,1186.0,73.97,5.0,8.85
+494.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Bangalore,2013.0,40000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+495.0,Ford EcoSport 1.5 Ti VCT AT Titanium,Kolkata,2013.0,41000.0,Petrol,Automatic,First,15.63,1499.0,110.4,5.0,nan
+496.0,BMW 5 Series 530i Sport Line,Kolkata,2011.0,30342.0,Petrol,Automatic,First,15.56,1998.0,252.0,5.0,59.12
+497.0,Honda City ZX GXi,Mumbai,2008.0,88000.0,Petrol,Manual,Second,17.7,1497.0,78.0,5.0,nan
+498.0,Maruti Wagon R VXI 1.2,Chennai,2018.0,9000.0,Petrol,Manual,First,21.5,1197.0,81.8,5.0,5.79
+499.0,Maruti Swift Dzire VDi,Delhi,2010.0,70000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+500.0,Volkswagen Polo Petrol Highline 1.2L,Kolkata,2011.0,46279.0,Petrol,Manual,First,16.47,1198.0,73.9,5.0,nan
+501.0,Maruti Ritz LDi,Pune,2016.0,105000.0,Diesel,Manual,Second,23.2,1248.0,73.94,5.0,nan
+502.0,Chevrolet Optra Magnum 2.0 LT,Chennai,2011.0,130000.0,Diesel,Manual,First,16.52,1991.0,123.7,5.0,nan
+503.0,Renault KWID RXL,Jaipur,2017.0,30000.0,Petrol,Manual,First,25.17,799.0,53.3,5.0,3.96
+504.0,Volkswagen Jetta 2013-2015 2.0L TDI Highline,Kolkata,2013.0,54000.0,Diesel,Manual,First,19.33,1968.0,138.03,5.0,nan
+505.0,Ford Figo Diesel Titanium,Jaipur,2010.0,65000.0,Diesel,Manual,First,20.0,1399.0,68.0,5.0,nan
+506.0,Maruti Swift Dzire VXi,Hyderabad,2010.0,70000.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+507.0,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Pune,2015.0,46000.0,Diesel,Automatic,First,13.0,2143.0,204.0,5.0,nan
+508.0,Chevrolet Spark 1.0 LS,Pune,2007.0,113000.0,Petrol,Manual,First,18.0,995.0,62.0,5.0,nan
+509.0,Hyundai Grand i10 Sportz,Jaipur,2016.0,67310.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+510.0,Honda Jazz VX CVT,Pune,2019.0,1015.0,Petrol,Automatic,First,19.0,1199.0,88.7,5.0,10.55
+511.0,Honda City 1.5 S MT,Jaipur,2011.0,83035.0,Petrol,Manual,Second,17.0,1497.0,118.0,5.0,nan
+512.0,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Kolkata,2015.0,36983.0,Diesel,Manual,First,12.99,2494.0,100.0,7.0,nan
+513.0,Chevrolet Cruze LTZ,Pune,2010.0,76000.0,Diesel,Manual,Third,18.3,1991.0,147.9,5.0,nan
+514.0,Skoda Rapid 1.6 MPI AT Style Plus,Coimbatore,2019.0,14148.0,Petrol,Automatic,First,14.3,1598.0,103.52,5.0,nan
+515.0,Maruti Ritz VDi,Kolkata,2011.0,71428.0,Diesel,Manual,First,21.1,1248.0,73.9,5.0,nan
+516.0,Maruti Ritz ZXi,Mumbai,2015.0,10500.0,Petrol,Manual,Second,18.5,1197.0,85.8,5.0,nan
+517.0,Honda City 1.5 S AT,Kochi,2010.0,58997.0,Petrol,Automatic,First,16.8,1497.0,118.0,5.0,nan
+518.0,Maruti Celerio VXI,Delhi,2015.0,39842.0,Petrol,Manual,First,23.1,998.0,67.04,5.0,nan
+519.0,Maruti Alto K10 LXI CNG,Kochi,2015.0,47490.0,CNG,Manual,First,32.26,998.0,58.2,4.0,nan
+520.0,Tata Indica Vista Aqua 1.2 Safire,Jaipur,2009.0,45000.0,Petrol,Manual,First,15.8,1172.0,65.0,5.0,nan
+521.0,Honda City i VTEC V,Hyderabad,2011.0,80000.0,Petrol,Manual,First,17.4,1497.0,117.3,5.0,nan
+522.0,Toyota Etios Liva Diesel TRD Sportivo,Bangalore,2012.0,56600.0,Diesel,Manual,First,23.59,nan,nan,nan,nan
+523.0,Skoda Rapid Ultima 1.6 TDI Ambition Plus,Coimbatore,2015.0,55409.0,Diesel,Manual,First,20.5,1598.0,103.5,5.0,nan
+524.0,Maruti SX4 ZXI AT,Mumbai,2009.0,77000.0,Petrol,Automatic,First,12.6,1586.0,103.3,5.0,nan
+525.0,Hyundai i20 new Sportz AT 1.4,Bangalore,2012.0,58000.0,Petrol,Automatic,Second,15.0,nan,nan,nan,nan
+526.0,Maruti Alto 800 LXI,Coimbatore,2016.0,59491.0,Petrol,Manual,First,22.74,796.0,47.3,5.0,nan
+527.0,Mahindra Scorpio SLX 2.6 Turbo 8 Str,Hyderabad,2007.0,51000.0,Diesel,Manual,First,10.5,2179.0,120.0,7.0,nan
+528.0,Maruti Baleno Zeta 1.2,Coimbatore,2017.0,18725.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,nan
+529.0,BMW X3 2.5si,Bangalore,2009.0,92000.0,Petrol,Automatic,First,11.5,2497.0,218.0,5.0,nan
+530.0,Maruti Ritz VDi,Coimbatore,2013.0,61450.0,Diesel,Manual,First,21.1,1248.0,73.9,5.0,nan
+531.0,Hyundai EON 1.0 Kappa Magna Plus,Coimbatore,2016.0,18592.0,Petrol,Manual,First,20.3,998.0,68.05,5.0,nan
+532.0,Chevrolet Enjoy 1.3 TCDi LTZ 7,Bangalore,2013.0,65137.0,Diesel,Manual,Second,18.2,1248.0,73.74,7.0,nan
+533.0,Volkswagen Polo Diesel Comfortline 1.2L,Pune,2011.0,83000.0,Diesel,Manual,Second,22.07,1199.0,73.9,5.0,nan
+534.0,Hyundai Verna 1.6 CRDi EX AT,Delhi,2013.0,37000.0,Diesel,Automatic,First,22.32,1582.0,126.3,5.0,nan
+535.0,Honda BRV i-VTEC V CVT,Coimbatore,2017.0,14052.0,Petrol,Automatic,First,16.0,1497.0,117.3,7.0,15.73
+536.0,Hyundai i10 Magna 1.2,Coimbatore,2011.0,45086.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+537.0,Maruti Wagon R VXI BS IV,Bangalore,2016.0,25400.0,Petrol,Manual,Second,20.51,998.0,67.04,5.0,nan
+538.0,Toyota Innova 2.5 G4 Diesel 8-seater,Hyderabad,2008.0,194500.0,Diesel,Manual,First,12.8,2494.0,102.0,8.0,nan
+539.0,Toyota Innova 2.5 V Diesel 8-seater,Pune,2014.0,89000.0,Diesel,Manual,First,12.8,2494.0,102.0,8.0,nan
+540.0,Hyundai Verna 1.4 CX,Kolkata,2012.0,50000.0,Diesel,Manual,First,23.5,1396.0,88.7,5.0,nan
+541.0,Hyundai i20 Sportz AT 1.4,Pune,2012.0,76551.0,Petrol,Automatic,First,15.0,1396.0,98.6,5.0,nan
+542.0,Volkswagen Polo 1.2 MPI Highline,Mumbai,2017.0,9700.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+543.0,Hyundai Verna 1.6 EX VTVT,Mumbai,2013.0,58000.0,Petrol,Manual,First,17.01,1591.0,121.3,5.0,nan
+544.0,Hyundai i20 Magna Optional 1.2,Kolkata,2013.0,46000.0,Petrol,Manual,Second,18.5,1197.0,82.9,5.0,nan
+545.0,Hyundai Elantra CRDi SX,Bangalore,2014.0,72017.0,Diesel,Manual,First,22.7,1582.0,126.24,5.0,nan
+546.0,Ford EcoSport 1.5 TDCi Titanium,Kolkata,2015.0,54407.0,Diesel,Manual,First,22.77,1498.0,98.59,5.0,nan
+547.0,Toyota Innova 2.5 VX (Diesel) 8 Seater,Hyderabad,2012.0,147000.0,Diesel,Manual,First,12.99,2494.0,100.0,8.0,nan
+548.0,Audi Q3 35 TDI Quattro Premium Plus,Jaipur,2015.0,61000.0,Diesel,Automatic,First,15.73,1968.0,174.33,5.0,nan
+549.0,Skoda Rapid 1.6 MPI AT Style,Mumbai,2016.0,18856.0,Petrol,Automatic,First,14.3,1598.0,103.52,5.0,nan
+550.0,BMW X6 xDrive30d,Hyderabad,2011.0,76000.0,Diesel,Automatic,First,11.2,2993.0,241.0,4.0,nan
+551.0,Mahindra KUV 100 D75 K8 5Str,Delhi,2017.0,17700.0,Diesel,Manual,First,25.32,1198.0,77.0,5.0,8.91
+552.0,Nissan Micra Diesel XV,Kochi,2014.0,82267.0,Diesel,Manual,First,23.08,1461.0,63.1,5.0,nan
+553.0,Honda City i VTEC CVT VX,Kochi,2018.0,27041.0,Petrol,Automatic,First,18.0,1497.0,117.3,5.0,nan
+554.0,Maruti Alto K10 VXI,Bangalore,2014.0,63000.0,Petrol,Manual,Second,24.07,998.0,67.1,5.0,4.7
+555.0,Maruti Wagon R VXI Minor,Hyderabad,2008.0,61000.0,Petrol,Manual,First,18.9,1061.0,67.0,5.0,nan
+556.0,Mahindra TUV 300 2015-2019 T8,Kochi,2018.0,28466.0,Diesel,Manual,First,18.49,1493.0,100.0,7.0,nan
+557.0,Hyundai Santro LS zipPlus,Kolkata,2002.0,80000.0,Petrol,Manual,First,0.0,1086.0,null bhp,5.0,nan
+558.0,Hyundai EON Era Plus,Delhi,2013.0,35373.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+559.0,Tata New Safari DICOR 2.2 EX 4x2,Jaipur,2014.0,51000.0,Diesel,Manual,First,11.57,2179.0,138.1,7.0,nan
+560.0,Audi A6 2011-2015 2.0 TDI,Mumbai,2013.0,49000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+561.0,Nissan Sunny Diesel XV,Kolkata,2015.0,41000.0,Diesel,Manual,First,22.71,1461.0,84.8,5.0,nan
+562.0,Toyota Innova 2.5 G4 Diesel 7-seater,Bangalore,2011.0,82831.0,Diesel,Manual,Second,12.8,2494.0,102.0,7.0,nan
+563.0,Honda City 1.5 E MT,Mumbai,2010.0,52000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+564.0,Maruti Swift VDI BSIV,Hyderabad,2015.0,39736.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+565.0,Renault Duster 110PS Diesel RxL,Mumbai,2014.0,26500.0,Diesel,Manual,First,19.01,1461.0,108.45,5.0,nan
+566.0,Maruti Dzire VXI,Mumbai,2010.0,40000.0,Petrol,Manual,First,22.0,1197.0,81.8,5.0,7.67
+567.0,Jeep Compass 2.0 Limited Option 4X4,Coimbatore,2019.0,5752.0,Diesel,Manual,First,16.3,1956.0,170.0,5.0,27.56
+568.0,Nissan Terrano XV D Pre,Chennai,2015.0,54000.0,Diesel,Manual,Second,19.64,1461.0,108.5,5.0,17.0
+569.0,Maruti Wagon R LXI,Kolkata,2014.0,54841.0,Petrol,Manual,First,22.5,998.0,67.04,5.0,4.75
+570.0,Ford Ecosport 1.5 DV5 MT Titanium,Hyderabad,2014.0,34000.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+571.0,Honda Brio E MT,Ahmedabad,2012.0,16000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+572.0,Ford Fiesta 1.4 SXi TDCi,Pune,2009.0,134000.0,Diesel,Manual,First,17.8,1399.0,null bhp,5.0,nan
+573.0,Skoda Superb L&K 2.0 TDI AT,Mumbai,2017.0,24000.0,Diesel,Automatic,First,18.19,1968.0,174.5,5.0,40.73
+574.0,Mahindra Xylo E8,Bangalore,2013.0,60000.0,Diesel,Manual,First,14.0,2498.0,112.0,8.0,nan
+575.0,Hyundai EON 1.0 Era Plus,Kochi,2015.0,58469.0,Petrol,Manual,First,20.3,998.0,68.05,5.0,nan
+576.0,Volkswagen Polo Diesel Highline 1.2L,Pune,2011.0,110000.0,Diesel,Manual,Second,22.07,1199.0,73.9,5.0,nan
+577.0,Hyundai Elantra 2.0 SX Option AT,Kochi,2018.0,21127.0,Petrol,Automatic,First,14.62,1999.0,149.92,5.0,21.77
+578.0,Toyota Innova 2.0 V,Pune,2013.0,56000.0,Petrol,Manual,First,12.4,1998.0,132.0,8.0,nan
+579.0,Mahindra Xylo H9,Mumbai,2014.0,101000.0,Diesel,Manual,First,14.02,2179.0,118.3,8.0,nan
+580.0,Hyundai i20 1.2 Magna Executive,Hyderabad,2018.0,13664.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+581.0,Renault Duster Adventure Edition,Mumbai,2014.0,65371.0,Diesel,Manual,First,19.01,1461.0,108.45,5.0,nan
+582.0,Hyundai Verna VTVT 1.6 SX,Delhi,2014.0,70428.0,Petrol,Manual,First,17.0,1591.0,121.3,5.0,11.47
+583.0,Hyundai Verna 1.6 CRDI,Bangalore,2012.0,69010.0,Diesel,Manual,First,22.32,1582.0,126.3,5.0,nan
+584.0,Maruti Alto 800 2016-2019 LXI,Kolkata,2017.0,68000.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+585.0,Nissan Sunny 2011-2014 Diesel XL,Kolkata,2012.0,45000.0,Diesel,Manual,First,21.64,1461.0,84.8,5.0,nan
+586.0,Maruti Swift Dzire Vdi BSIV,Ahmedabad,2017.0,55945.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+587.0,Chevrolet Sail Hatchback LS ABS,Hyderabad,2013.0,70000.0,Diesel,Manual,First,22.1,1248.0,76.9,5.0,nan
+588.0,Maruti Wagon R LXI,Mumbai,2014.0,12000.0,Petrol,Manual,First,18.9,998.0,67.1,5.0,nan
+589.0,Toyota Corolla Altis VL AT,Coimbatore,2019.0,10660.0,Petrol,Automatic,First,14.28,1798.0,138.03,5.0,nan
+590.0,Toyota Etios G,Delhi,2012.0,52052.0,Petrol,Manual,First,16.78,1496.0,88.73,5.0,nan
+591.0,Mercedes-Benz New C-Class 220 CDI AT,Chennai,2012.0,62940.0,Diesel,Automatic,Second,14.84,2143.0,170.0,5.0,nan
+592.0,Hyundai Santro Xing GL Plus,Kolkata,2012.0,102000.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+593.0,Volkswagen Vento Diesel Highline,Chennai,2012.0,60000.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+594.0,Nissan Sunny 2011-2014 XL AT Special Edition,Pune,2013.0,66000.0,Petrol,Automatic,First,17.97,1498.0,99.6,5.0,nan
+595.0,Honda Brio 1.2 VX MT,Hyderabad,2012.0,41000.0,Petrol,Manual,First,18.5,1198.0,86.8,5.0,7.08
+596.0,Honda CR-V 2.4 4WD AT,Chennai,2005.0,135000.0,Petrol,Automatic,Third,10.1,2354.0,152.0,5.0,nan
+597.0,Honda City 1.5 S AT,Pune,2012.0,72000.0,Petrol,Automatic,First,16.8,1497.0,116.4,5.0,nan
+598.0,Mercedes-Benz New C-Class C 220 CDI Celebration Edition,Delhi,2014.0,55000.0,Diesel,Automatic,First,11.78,2143.0,167.62,5.0,nan
+599.0,Ford Ecosport 1.0 Ecoboost Titanium,Coimbatore,2016.0,37354.0,Petrol,Manual,First,18.88,999.0,123.37,5.0,nan
+600.0,Mercedes-Benz GLE 250d,Delhi,2016.0,21000.0,Diesel,Automatic,First,17.9,2143.0,201.15,5.0,77.92
+601.0,BMW 5 Series 2013-2017 520d Luxury Line,Bangalore,2015.0,66508.0,Diesel,Automatic,First,18.12,1995.0,190.0,5.0,nan
+602.0,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Hyderabad,2013.0,88000.0,Diesel,Automatic,First,11.3,2987.0,254.8,7.0,nan
+603.0,Toyota Fortuner 4x4 MT TRD Sportivo,Bangalore,2012.0,52000.0,Diesel,Manual,First,12.55,2982.0,169.0,7.0,nan
+604.0,Mercedes-Benz CLA 200 D Sport Edition,Coimbatore,2017.0,41372.0,Diesel,Automatic,First,17.9,2143.0,136.0,5.0,nan
+605.0,Skoda Rapid 1.5 TDI AT Ambition,Jaipur,2017.0,50000.0,Diesel,Automatic,Second,21.72,1498.0,108.4,5.0,14.86
+606.0,Maruti Swift VDI BSIV,Kolkata,2012.0,72000.0,Diesel,Manual,First,17.8,1248.0,null bhp,5.0,nan
+607.0,Honda Amaze S i-Dtech,Kolkata,2013.0,51637.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+608.0,Toyota Corolla Altis G,Mumbai,2009.0,48233.0,Petrol,Manual,First,14.53,1798.0,138.1,5.0,nan
+609.0,Hyundai Grand i10 Asta,Chennai,2016.0,58000.0,Petrol,Manual,Second,18.9,1197.0,82.0,5.0,nan
+610.0,Honda Jazz 1.2 V CVT i VTEC,Chennai,2015.0,44550.0,Petrol,Automatic,First,19.0,1199.0,88.7,5.0,nan
+611.0,Hyundai Verna 1.6 SX,Ahmedabad,2013.0,60001.0,Diesel,Manual,First,22.32,1582.0,126.32,5.0,nan
+612.0,Toyota Fortuner 4x2 AT,Delhi,2014.0,150000.0,Diesel,Automatic,First,12.55,2982.0,168.5,7.0,nan
+613.0,Mercedes-Benz E-Class 2009-2013 E350 CDI Avantgarde,Delhi,2015.0,33000.0,Diesel,Automatic,First,11.5,2987.0,210.0,5.0,nan
+614.0,Mahindra TUV 300 P4,Kolkata,2016.0,27000.0,Diesel,Manual,First,0.0,nan,nan,nan,nan
+615.0,Volkswagen Polo 1.5 TDI Highline,Jaipur,2015.0,62766.0,Diesel,Manual,First,20.14,1498.0,88.8,5.0,nan
+616.0,Maruti Wagon R LXI BS IV,Delhi,2010.0,73575.0,Petrol,Manual,First,18.9,998.0,67.1,5.0,nan
+617.0,Honda Amaze SX i-DTEC,Pune,2015.0,63000.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+618.0,Toyota Innova Crysta 2.8 ZX AT,Jaipur,2017.0,27270.0,Diesel,Automatic,First,11.36,2755.0,171.5,7.0,26.14
+619.0,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Bangalore,2016.0,41737.0,Diesel,Automatic,First,19.27,2143.0,170.0,5.0,nan
+620.0,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018.0,28358.0,Diesel,Automatic,First,19.27,2143.0,167.62,5.0,nan
+621.0,Maruti Ritz VDi ABS,Pune,2012.0,75500.0,Diesel,Manual,Second,21.1,1248.0,73.9,5.0,nan
+622.0,Honda Jazz 1.2 VX i VTEC,Mumbai,2016.0,9900.0,Petrol,Manual,First,18.7,1199.0,88.7,5.0,nan
+623.0,Honda Brio S MT,Mumbai,2014.0,17000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+624.0,BMW 5 Series 520d Sedan,Bangalore,2009.0,150000.0,Diesel,Automatic,Second,18.48,nan,nan,nan,nan
+625.0,Hyundai Creta 1.4 CRDi S Plus,Bangalore,2015.0,68178.0,Diesel,Manual,First,21.38,1396.0,88.7,5.0,nan
+626.0,Hyundai Getz GLE,Hyderabad,2009.0,52008.0,Petrol,Manual,First,15.3,1341.0,83.0,5.0,nan
+627.0,Chevrolet Beat Diesel LS,Kolkata,2013.0,76000.0,Diesel,Manual,First,25.44,936.0,56.3,5.0,nan
+628.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2015.0,48222.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+629.0,Hyundai Xcent 1.2 Kappa SX Option,Delhi,2016.0,100000.0,Petrol,Manual,First,19.1,1197.0,82.0,5.0,nan
+630.0,Maruti Swift Dzire VDi,Delhi,2010.0,68000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+631.0,Mitsubishi Pajero Sport 4X2 AT,Coimbatore,2015.0,76115.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,32.41
+632.0,Maruti Swift 1.3 VXi,Kolkata,2015.0,36009.0,Petrol,Manual,First,16.1,nan,nan,nan,nan
+633.0,Toyota Fortuner 4x2 AT,Hyderabad,2013.0,142000.0,Diesel,Automatic,First,12.55,2982.0,168.5,7.0,nan
+634.0,Volvo S60 D5 Kinetic,Hyderabad,2011.0,70000.0,Diesel,Automatic,First,13.2,2400.0,215.0,5.0,nan
+635.0,Hyundai Creta 1.6 CRDi SX,Coimbatore,2016.0,34224.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+636.0,Mercedes-Benz E-Class 2009-2013 E250 CDI Avantgarde,Ahmedabad,2012.0,50000.0,Diesel,Automatic,Second,14.21,2143.0,203.0,5.0,nan
+637.0,Honda Mobilio V i DTEC,Mumbai,2015.0,30000.0,Diesel,Manual,First,24.2,1498.0,98.6,7.0,nan
+638.0,Renault Captur 1.5 Diesel RXL,Bangalore,2018.0,22000.0,Diesel,Manual,First,20.37,1461.0,108.45,5.0,nan
+639.0,Hyundai EON Sportz,Kolkata,2017.0,4000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+640.0,Volvo XC90 2007-2015 D5 AWD,Delhi,2014.0,22230.0,Diesel,Manual,First,11.1,2400.0,200.0,7.0,nan
+641.0,Maruti A-Star AT VXI,Bangalore,2011.0,46000.0,Petrol,Automatic,First,16.98,998.0,66.1,5.0,nan
+642.0,Mercedes-Benz E-Class 2009-2013 E250 CDI Blue Efficiency,Pune,2013.0,88700.0,Diesel,Automatic,First,14.21,2143.0,203.0,5.0,nan
+643.0,Hyundai Grand i10 Sportz,Hyderabad,2015.0,56000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+644.0,Audi A3 35 TDI Attraction,Ahmedabad,2014.0,84004.0,Diesel,Automatic,First,20.38,1968.0,143.0,5.0,nan
+645.0,BMW 5 Series 2013-2017 530d M Sport,Bangalore,2015.0,16000.0,Diesel,Automatic,First,14.69,2993.0,258.0,5.0,nan
+646.0,Mahindra XUV500 W6 2WD,Jaipur,2015.0,85009.0,Diesel,Manual,Second,16.0,2179.0,140.0,7.0,nan
+647.0,Ford Ecosport 1.0 Ecoboost Titanium,Mumbai,2014.0,86000.0,Petrol,Manual,First,18.88,999.0,123.37,5.0,nan
+648.0,Chevrolet Enjoy TCDi LS 7 Seater,Coimbatore,2015.0,93442.0,Diesel,Manual,First,18.2,1248.0,73.8,7.0,nan
+649.0,Mahindra Scorpio S10 8 Seater,Chennai,2015.0,65000.0,Diesel,Manual,First,15.4,2179.0,120.0,8.0,nan
+650.0,Hyundai i20 2015-2017 1.2 Magna,Pune,2013.0,67000.0,Petrol,Manual,First,18.5,1197.0,80.0,5.0,nan
+651.0,Renault Pulse RxZ,Coimbatore,2014.0,31513.0,Diesel,Manual,First,23.08,1461.0,63.12,5.0,nan
+652.0,Maruti Swift Dzire ZDI,Coimbatore,2017.0,75724.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+653.0,Hyundai EON Magna Plus,Kolkata,2013.0,69000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+654.0,Nissan Micra XL,Mumbai,2010.0,65000.0,Petrol,Manual,First,18.06,1198.0,75.0,5.0,nan
+655.0,Skoda Superb L&K 2.0 TDI AT,Mumbai,2017.0,27000.0,Diesel,Automatic,First,18.19,1968.0,174.5,5.0,40.73
+656.0,Maruti Swift VXI,Chennai,2014.0,56049.0,Petrol,Manual,First,18.6,1197.0,85.8,5.0,nan
+657.0,Skoda Rapid 1.6 TDI Ambition,Pune,2012.0,96987.0,Diesel,Manual,First,20.5,1598.0,103.5,5.0,nan
+658.0,Fiat Punto 1.4 Emotion,Jaipur,2010.0,65000.0,Petrol,Manual,Third,14.6,nan,nan,nan,nan
+659.0,Hyundai i10 Sportz 1.2,Bangalore,2010.0,69000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+660.0,Honda Jazz 1.5 S i DTEC,Bangalore,2015.0,33500.0,Diesel,Manual,First,27.3,1498.0,98.6,5.0,nan
+661.0,Toyota Innova 2.5 VX (Diesel) 8 Seater,Chennai,2012.0,93000.0,Diesel,Manual,First,12.99,2494.0,100.0,8.0,nan
+662.0,Volvo XC60 D4 SUMMUM,Ahmedabad,2013.0,64000.0,Diesel,Automatic,First,14.7,1984.0,181.0,5.0,nan
+663.0,Maruti Ciaz ZDi Plus SHVS,Kochi,2017.0,48045.0,Diesel,Manual,First,28.09,1248.0,88.5,5.0,nan
+664.0,Mitsubishi Pajero 2.8 SFX,Hyderabad,2009.0,94000.0,Diesel,Manual,First,10.5,2835.0,107.2,6.0,nan
+665.0,Maruti Alto LXi,Chennai,2011.0,60000.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+666.0,Maruti Swift 1.3 VXi,Pune,2010.0,115000.0,Petrol,Manual,Second,16.1,nan,nan,nan,nan
+667.0,BMW 3 Series 320d,Bangalore,2011.0,56000.0,Diesel,Automatic,First,13.2,1995.0,170.0,5.0,nan
+668.0,Hyundai i20 1.4 CRDi Asta,Pune,2012.0,98472.0,Diesel,Manual,First,23.0,1396.0,90.0,5.0,nan
+669.0,Hyundai Creta 1.6 CRDi SX,Hyderabad,2016.0,37800.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+670.0,Maruti Omni 5 Seater BSIV,Coimbatore,2016.0,63617.0,Petrol,Manual,First,14.0,796.0,35.0,5.0,nan
+671.0,Hyundai Verna CRDi SX ABS,Ahmedabad,2011.0,68000.0,Diesel,Manual,First,18.1,1493.0,110.0,5.0,nan
+672.0,Maruti Baleno Sigma 1.2,Kochi,2017.0,11282.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,nan
+673.0,Honda Amaze S i-Dtech,Chennai,2013.0,75000.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+674.0,BMW X3 xDrive20d Advantage Edition,Coimbatore,2014.0,78984.0,Diesel,Automatic,First,16.09,1995.0,184.0,5.0,nan
+675.0,Skoda Superb Style 1.8 TSI AT,Mumbai,2016.0,71000.0,Petrol,Automatic,First,14.67,1798.0,177.46,5.0,33.36
+676.0,Honda Brio 1.2 VX MT,Kochi,2014.0,43814.0,Petrol,Manual,First,18.5,1198.0,86.8,5.0,6.63
+677.0,Hyundai i10 Magna,Kolkata,2011.0,60000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+678.0,Hyundai Santro Xing XL,Jaipur,2007.0,85000.0,Petrol,Manual,Second,0.0,1086.0,null bhp,5.0,nan
+679.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2015.0,65438.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+680.0,Renault Duster 85PS Diesel RxL,Mumbai,2014.0,28215.0,Diesel,Manual,First,19.87,1461.0,83.8,5.0,nan
+681.0,Honda WRV i-DTEC VX,Kochi,2019.0,15053.0,Diesel,Manual,First,25.5,1498.0,98.6,5.0,12.05
+682.0,Honda Mobilio RS Option i DTEC,Bangalore,2015.0,38000.0,Diesel,Manual,First,24.5,1498.0,98.6,7.0,nan
+683.0,Volkswagen Polo Petrol Highline 1.2L,Kochi,2012.0,64213.0,Petrol,Manual,First,16.47,1198.0,73.9,5.0,nan
+684.0,Mercedes-Benz E-Class E 220 d,Delhi,2017.0,15000.0,Petrol,Automatic,First,12.6,1950.0,191.34,5.0,86.97
+685.0,Mercedes-Benz S Class 2005 2013 S 350 CDI,Hyderabad,2011.0,82000.0,Diesel,Automatic,First,13.5,2987.0,282.0,5.0,nan
+686.0,Hyundai Accent GLX,Pune,2009.0,60000.0,Petrol,Manual,Second,13.2,1495.0,94.0,5.0,nan
+687.0,Maruti Swift Dzire VXi,Chennai,2012.0,158000.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+688.0,Hyundai i10 Magna,Chennai,2007.0,73000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+689.0,Honda Brio 1.2 S MT,Coimbatore,2013.0,71601.0,Petrol,Manual,First,18.5,1198.0,86.8,5.0,6.38
+690.0,Maruti Ritz VDi,Hyderabad,2015.0,82328.0,Diesel,Manual,First,21.1,1248.0,73.9,5.0,nan
+691.0,Honda Brio 1.2 S MT,Kolkata,2011.0,38000.0,Petrol,Manual,First,18.5,1198.0,86.8,5.0,5.89
+692.0,Maruti Swift VXI BSIV,Pune,2014.0,85000.0,Petrol,Manual,First,20.4,1197.0,81.8,5.0,nan
+693.0,Renault Duster 110PS Diesel RxL,Jaipur,2012.0,116000.0,Diesel,Manual,First,19.01,1461.0,108.45,5.0,nan
+694.0,Hyundai Santro Xing GLS,Mumbai,2008.0,65000.0,Petrol,Manual,Second,17.92,1086.0,62.1,5.0,nan
+695.0,Mahindra KUV 100 G80 K4 Plus 5Str,Chennai,2018.0,5600.0,Petrol,Manual,First,18.15,1198.0,82.0,5.0,6.55
+696.0,Ford Endeavour 3.0L 4X4 AT,Delhi,2012.0,68000.0,Diesel,Automatic,First,11.4,2953.0,153.86,7.0,nan
+697.0,Tata Indica Vista Terra 1.2 Safire BS IV,Kolkata,2010.0,29300.0,Petrol,Manual,First,15.8,1172.0,65.0,5.0,nan
+698.0,Land Rover Discovery Sport TD4 S,Kochi,2018.0,23342.0,Diesel,Automatic,First,12.83,2179.0,147.5,5.0,nan
+699.0,BMW 3 Series 320d Sport,Coimbatore,2017.0,41078.0,Diesel,Automatic,First,22.69,1995.0,190.0,5.0,nan
+700.0,Volkswagen Vento 1.5 TDI Highline Plus,Chennai,2014.0,38000.0,Diesel,Manual,First,20.64,1498.0,108.49,5.0,nan
+701.0,Tata Indica Vista TDI LS,Hyderabad,2013.0,132000.0,Diesel,Manual,Second,19.4,1405.0,70.0,5.0,nan
+702.0,Maruti Alto 800 LXI,Pune,2015.0,35000.0,Petrol,Manual,First,22.74,796.0,47.3,5.0,nan
+703.0,Ford Figo Diesel LXI,Ahmedabad,2012.0,80000.0,Diesel,Manual,First,20.0,1399.0,68.0,5.0,nan
+704.0,Ford Fiesta 1.4 SXi TDCi,Kolkata,2009.0,39408.0,Diesel,Manual,First,17.8,1399.0,null bhp,5.0,nan
+705.0,Honda Jazz 1.2 V i VTEC,Kolkata,2015.0,27525.0,Petrol,Manual,First,18.7,1199.0,88.7,5.0,nan
+706.0,Hyundai Grand i10 1.2 CRDi Magna,Jaipur,2018.0,27000.0,Diesel,Manual,First,24.0,1186.0,73.97,5.0,7.79
+707.0,Skoda Rapid 1.5 TDI Ambition,Pune,2015.0,82799.0,Diesel,Manual,First,21.14,1498.0,103.52,5.0,nan
+708.0,Maruti Ignis 1.2 Alpha,Pune,2017.0,8000.0,Petrol,Manual,First,20.89,1197.0,81.8,5.0,7.87
+709.0,Toyota Fortuner 4x2 AT,Mumbai,2014.0,46000.0,Diesel,Automatic,Second,12.55,2982.0,168.5,7.0,nan
+710.0,Hyundai Verna 1.6 CRDI,Pune,2012.0,98000.0,Diesel,Manual,First,22.32,1582.0,126.3,5.0,nan
+711.0,Hyundai EON Era Plus,Coimbatore,2016.0,47924.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+712.0,Ford Ecosport 1.5 Ti VCT AT Titanium,Chennai,2013.0,39000.0,Petrol,Automatic,First,16.5,1499.0,110.0,5.0,nan
+713.0,Hyundai Grand i10 Asta Option,Coimbatore,2017.0,33601.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+714.0,Hyundai Creta 1.6 SX Automatic Diesel,Pune,2015.0,85000.0,Diesel,Automatic,First,17.6,1582.0,126.2,5.0,18.32
+715.0,Toyota Corolla Altis G,Pune,2012.0,54000.0,Petrol,Manual,First,14.53,1798.0,138.1,5.0,nan
+716.0,Maruti Vitara Brezza ZDi,Pune,2017.0,35000.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,10.65
+717.0,Volkswagen CrossPolo 1.2 TDI,Hyderabad,2013.0,80020.0,Diesel,Manual,Second,22.07,1199.0,74.0,5.0,nan
+718.0,Ford Ikon 1.4 ZXi,Chennai,2005.0,87500.0,Petrol,Manual,Second,13.8,1399.0,68.0,5.0,nan
+719.0,Honda Mobilio V i VTEC,Mumbai,2015.0,59500.0,Petrol,Manual,First,17.3,1497.0,117.3,7.0,nan
+720.0,Honda Mobilio S i DTEC,Hyderabad,2015.0,76000.0,Diesel,Manual,First,24.2,1498.0,98.6,7.0,nan
+721.0,Porsche Cayenne Diesel,Bangalore,2014.0,43000.0,Diesel,Automatic,Second,15.15,2967.0,240.0,5.0,nan
+722.0,Honda Amaze E i-Vtech,Kochi,2015.0,41850.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+723.0,Audi A3 35 TDI Premium Plus,Hyderabad,2015.0,52300.0,Diesel,Automatic,First,20.38,1968.0,143.0,5.0,nan
+724.0,Mahindra XUV500 W6 2WD,Pune,2013.0,31924.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+725.0,Hyundai Verna Transform SX VGT CRDi BS III,Coimbatore,2014.0,77914.0,Diesel,Manual,First,16.2,1493.0,110.0,5.0,nan
+726.0,Ford Ecosport 1.5 DV5 MT Trend,Pune,2013.0,70000.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+727.0,Maruti Alto LXi,Chennai,2010.0,94385.0,Petrol,Manual,Second,19.7,796.0,46.3,5.0,nan
+728.0,Renault Pulse RxZ,Jaipur,2012.0,57000.0,Diesel,Manual,Second,23.08,1461.0,63.12,5.0,nan
+729.0,Hyundai EON 1.0 Kappa Magna Plus,Coimbatore,2016.0,27039.0,Petrol,Manual,First,20.3,998.0,68.05,5.0,nan
+730.0,Honda Amaze SX i-VTEC,Delhi,2015.0,11000.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+731.0,Volkswagen Vento 1.5 TDI Highline Plus AT,Jaipur,2016.0,57669.0,Diesel,Automatic,First,21.5,1498.0,108.5,5.0,16.64
+732.0,Toyota Fortuner 3.0 Diesel,Pune,2011.0,124000.0,Diesel,Manual,First,11.5,2982.0,171.0,7.0,nan
+733.0,Maruti SX4 S Cross DDiS 200 Zeta,Mumbai,2017.0,29500.0,Diesel,Manual,First,23.65,1248.0,88.5,5.0,nan
+734.0,Maruti 800 DX,Jaipur,2000.0,75000.0,Petrol,Manual,First,16.1,796.0,37.0,4.0,nan
+735.0,Maruti Celerio VXI AT,Coimbatore,2015.0,54186.0,Petrol,Automatic,First,23.1,998.0,67.04,5.0,nan
+736.0,Honda Brio E MT,Mumbai,2015.0,36990.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+737.0,Maruti Swift Dzire Vdi BSIV,Hyderabad,2016.0,90000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+738.0,Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2018.0,23000.0,Diesel,Automatic,First,11.36,2755.0,171.5,8.0,21.0
+739.0,Maruti Ertiga VXI Petrol,Delhi,2016.0,23582.0,Petrol,Manual,Second,19.34,1462.0,103.0,7.0,9.54
+740.0,Maruti A-Star Vxi,Jaipur,2009.0,87000.0,Petrol,Manual,Second,19.0,998.0,66.1,5.0,nan
+741.0,Fiat Avventura Urban Cross 1.3 Multijet Emotion,Kolkata,2019.0,1000.0,Diesel,Manual,First,20.5,1248.0,91.72,5.0,9.26
+742.0,Maruti Swift VDI,Kochi,2015.0,58634.0,Diesel,Manual,First,28.4,1248.0,74.0,5.0,nan
+743.0,Nissan Sunny Diesel XV,Kochi,2013.0,41377.0,Diesel,Manual,Second,22.71,1461.0,84.8,5.0,nan
+744.0,Hyundai EON Magna Plus,Jaipur,2015.0,43000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+745.0,Honda Amaze S i-Vtech,Kochi,2015.0,77372.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+746.0,Ford Fiesta 1.4 Duratec EXI Limited Edition,Chennai,2006.0,49000.0,Petrol,Manual,Second,16.6,1388.0,68.0,5.0,nan
+747.0,Honda City i VTEC CVT VX,Delhi,2015.0,48000.0,Petrol,Automatic,First,18.0,1497.0,117.3,5.0,nan
+748.0,Honda Brio S MT,Hyderabad,2012.0,30000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+749.0,Maruti Wagon R VXI BS IV,Kolkata,2012.0,47000.0,Petrol,Manual,First,18.9,998.0,67.1,5.0,nan
+750.0,Hyundai Elantra CRDi SX AT,Jaipur,2016.0,76681.0,Diesel,Automatic,First,22.7,1582.0,126.2,5.0,nan
+751.0,Honda Accord 2.4 Elegance A/T,Mumbai,2010.0,106565.0,Petrol,Automatic,First,10.2,2354.0,180.0,5.0,nan
+752.0,Maruti Wagon R VXI AMT,Coimbatore,2011.0,37492.0,Petrol,Automatic,First,22.5,998.0,67.0,5.0,6.33
+753.0,Chevrolet Cruze LTZ,Coimbatore,2014.0,72843.0,Diesel,Manual,Second,17.3,1998.0,163.7,5.0,nan
+754.0,Hyundai i20 1.2 Era,Kochi,2013.0,55653.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+755.0,Tata Nano Cx BSIV,Ahmedabad,2013.0,35000.0,Petrol,Manual,First,25.4,624.0,37.48,4.0,nan
+756.0,Ford Ecosport 1.5 Ti VCT MT Trend,Delhi,2014.0,44000.0,Petrol,Manual,First,15.8,1499.0,110.0,5.0,nan
+757.0,Tata Indica Vista TDI LS,Pune,2012.0,43200.0,Diesel,Manual,First,19.1,1405.0,70.0,5.0,nan
+758.0,Skoda Octavia Classic 1.9 TDI MT,Jaipur,2005.0,117000.0,Diesel,Manual,First,18.7,1896.0,66.0,5.0,nan
+759.0,Mitsubishi Pajero Sport 4X2 AT,Coimbatore,2016.0,63961.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,34.1
+760.0,Mini Cooper 3 DOOR D,Mumbai,2015.0,20000.0,Diesel,Automatic,First,20.7,1496.0,113.98,4.0,35.0
+761.0,Hyundai Xcent 1.2 Kappa S Option,Pune,2016.0,34000.0,Petrol,Manual,First,19.1,1197.0,81.86,5.0,nan
+762.0,Hyundai i20 Magna 1.2,Kolkata,2015.0,35000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+763.0,Hyundai i20 Sportz 1.2,Mumbai,2013.0,43000.0,Petrol,Manual,First,18.5,1197.0,82.85,5.0,nan
+764.0,Hyundai i10 Magna,Hyderabad,2008.0,63193.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+765.0,Toyota Innova 2.5 G4 Diesel 8-seater,Bangalore,2008.0,110000.0,Diesel,Manual,First,12.8,2494.0,102.0,8.0,nan
+766.0,Maruti SX4 Vxi BSIV,Kochi,2011.0,44547.0,Petrol,Manual,First,16.51,1586.0,103.2,5.0,nan
+767.0,Honda City 1.5 E MT,Ahmedabad,2011.0,65000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+768.0,Maruti Ritz LXi,Mumbai,2012.0,79000.0,Petrol,Manual,Second,18.5,1197.0,85.8,5.0,nan
+769.0,Maruti Alto K10 LXI CNG Optional,Delhi,2017.0,33000.0,CNG,Manual,First,32.26,998.0,58.2,4.0,4.66
+770.0,Hyundai i20 2015-2017 Sportz AT 1.4,Pune,2014.0,108000.0,Petrol,Automatic,First,15.0,1396.0,98.6,5.0,nan
+771.0,Toyota Innova Crysta 2.4 G MT 8S,Kochi,2018.0,21302.0,Diesel,Manual,First,13.68,2393.0,147.8,8.0,nan
+772.0,Maruti Swift VDI Optional,Pune,2014.0,82000.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+773.0,Toyota Innova 2.5 GX (Diesel) 8 Seater,Chennai,2014.0,173000.0,Diesel,Manual,Second,12.99,2494.0,100.6,8.0,nan
+774.0,Mahindra Quanto C2,Jaipur,2013.0,72000.0,Diesel,Manual,First,17.21,1493.0,100.0,7.0,nan
+775.0,Mahindra XUV500 W8 4WD,Bangalore,2014.0,50299.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+776.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Kolkata,2014.0,60000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+777.0,Toyota Fortuner 3.0 Diesel,Kolkata,2011.0,112999.0,Diesel,Manual,First,11.5,2982.0,171.0,7.0,nan
+778.0,Toyota Innova 2.5 G4 Diesel 7-seater,Pune,2010.0,183000.0,Diesel,Manual,First,12.8,2494.0,102.0,7.0,nan
+779.0,Jaguar XF 2.2 Litre Luxury,Coimbatore,2016.0,58840.0,Diesel,Automatic,First,16.36,2179.0,187.7,5.0,nan
+780.0,Hyundai Verna 1.6 EX VTVT,Kolkata,2014.0,58000.0,Petrol,Manual,First,17.01,1591.0,121.3,5.0,nan
+781.0,Hyundai i20 1.4 CRDi Magna,Jaipur,2011.0,78000.0,Diesel,Manual,First,21.9,1396.0,90.0,5.0,nan
+782.0,Skoda Octavia 2.0 TDI MT Style,Ahmedabad,2018.0,34000.0,Diesel,Manual,First,21.0,1968.0,141.0,5.0,23.29
+783.0,Hyundai i10 Sportz 1.2,Hyderabad,2012.0,54982.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+784.0,Maruti Alto LXi,Jaipur,2008.0,65000.0,Petrol,Manual,Second,19.7,796.0,46.3,5.0,nan
+785.0,Renault KWID RXL,Kochi,2018.0,16292.0,Petrol,Manual,First,25.17,799.0,53.3,5.0,3.95
+786.0,Hyundai Grand i10 Sportz,Mumbai,2015.0,11206.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+787.0,Hyundai Grand i10 AT Asta,Pune,2015.0,32100.0,Petrol,Automatic,First,18.9,1197.0,82.0,5.0,nan
+788.0,Maruti Wagon R LXI,Delhi,2018.0,22296.0,Petrol,Manual,Second,22.5,998.0,67.04,5.0,4.59
+789.0,Hyundai i20 Magna 1.4 CRDi,Kolkata,2015.0,36113.0,Diesel,Manual,First,22.54,1396.0,88.73,5.0,nan
+790.0,Volvo S80 D5,Delhi,2011.0,87000.0,Diesel,Automatic,Second,13.1,2400.0,215.0,5.0,nan
+791.0,Renault Duster 85PS Diesel RxZ,Jaipur,2018.0,1001.0,Diesel,Manual,First,19.87,1461.0,83.8,5.0,13.08
+792.0,Honda City i VTEC CVT VX,Hyderabad,2015.0,39822.0,Petrol,Automatic,First,18.0,1497.0,117.3,5.0,nan
+793.0,Maruti Swift VXI BSIII,Hyderabad,2008.0,81814.0,Petrol,Manual,First,16.1,1298.0,88.2,5.0,nan
+794.0,Hyundai Creta 1.6 SX Plus Diesel,Chennai,2016.0,62000.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+795.0,Maruti Swift Dzire VDI,Pune,2017.0,71000.0,Diesel,Manual,Second,26.59,1248.0,74.0,5.0,nan
+796.0,Honda Jazz 1.2 V CVT i VTEC,Coimbatore,2019.0,10452.0,Petrol,Automatic,First,19.0,1199.0,88.7,5.0,nan
+797.0,Tata Tiago 1.2 Revotron XT Option,Kolkata,2018.0,1520.0,Petrol,Manual,First,23.84,1199.0,84.0,5.0,5.71
+798.0,Honda Brio S MT,Chennai,2013.0,35315.0,Petrol,Manual,Second,19.4,1198.0,86.8,5.0,nan
+799.0,Maruti Swift VDI BSIV,Hyderabad,2014.0,91722.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+800.0,Hyundai i20 1.2 Sportz Option,Pune,2011.0,35976.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+801.0,Renault KWID RXL,Delhi,2016.0,22000.0,Petrol,Manual,First,25.17,799.0,53.3,5.0,4.02
+802.0,Audi A6 35 TDI Matrix,Hyderabad,2011.0,71000.0,Diesel,Automatic,First,18.53,1968.0,187.74,5.0,67.1
+803.0,Hyundai Grand i10 Asta Option,Pune,2014.0,25000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+804.0,Maruti Alto LXI,Hyderabad,2010.0,54486.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+805.0,Jaguar XF 2.0 Petrol Portfolio,Kolkata,2017.0,18366.0,Petrol,Automatic,First,10.8,1997.0,246.74,5.0,66.71
+806.0,Tata Manza Aqua Safire,Kolkata,2010.0,16000.0,Petrol,Manual,First,15.0,1368.0,90.0,5.0,nan
+807.0,Tata Nano XTA,Coimbatore,2017.0,31176.0,Petrol,Automatic,First,21.9,624.0,37.48,4.0,nan
+808.0,BMW X1 sDrive20d,Jaipur,2012.0,88375.0,Diesel,Automatic,Second,17.05,1995.0,184.0,5.0,nan
+809.0,Maruti Wagon R AMT VXI,Jaipur,2017.0,34500.0,Petrol,Automatic,First,20.51,998.0,67.0,5.0,nan
+810.0,Toyota Fortuner 4x4 MT,Hyderabad,2012.0,80000.0,Diesel,Manual,First,12.55,2982.0,168.5,7.0,nan
+811.0,Volkswagen Polo Diesel Trendline 1.2L,Delhi,2013.0,46000.0,Diesel,Manual,First,22.07,1199.0,73.9,5.0,nan
+812.0,Honda Civic 2010-2013 1.8 V AT,Mumbai,2009.0,70000.0,Petrol,Automatic,Third,13.9,1799.0,130.2,5.0,nan
+813.0,BMW 7 Series 2007-2012 730Ld,Hyderabad,2009.0,51000.0,Diesel,Automatic,First,14.49,2993.0,258.0,5.0,nan
+814.0,Mahindra XUV500 AT W10 FWD,Delhi,2017.0,25000.0,Diesel,Automatic,First,16.0,2179.0,140.0,7.0,nan
+815.0,Hyundai Elantra SX AT,Coimbatore,2017.0,25132.0,Petrol,Automatic,First,14.5,1797.0,147.4,5.0,nan
+816.0,Toyota Corolla Altis G,Delhi,2011.0,70000.0,Petrol,Manual,First,14.53,1798.0,138.1,5.0,nan
+817.0,Maruti Alto 800 2016-2019 LXI,Kochi,2015.0,48913.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+818.0,Honda City i-DTEC SV,Hyderabad,2014.0,63000.0,Diesel,Manual,First,25.6,1498.0,98.6,5.0,13.33
+819.0,Maruti Alto LXi,Jaipur,2011.0,90000.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+820.0,Honda Brio S MT,Chennai,2013.0,55000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+821.0,Volkswagen Polo Petrol Comfortline 1.2L,Mumbai,2013.0,51000.0,Petrol,Manual,First,16.47,1198.0,73.9,5.0,nan
+822.0,Maruti Ritz ZXi,Pune,2012.0,35844.0,Petrol,Manual,Second,18.5,1197.0,85.8,5.0,nan
+823.0,Nissan 370Z AT,Kolkata,2012.0,14850.0,Petrol,Automatic,First,10.0,3696.0,328.5,2.0,nan
+824.0,Audi A6 2011-2015 2.0 TDI,Hyderabad,2014.0,98000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+825.0,Hyundai i20 Asta 1.2,Mumbai,2015.0,17000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+826.0,Hyundai Verna 1.6 CRDI,Mumbai,2013.0,42670.0,Diesel,Manual,First,22.32,1582.0,126.3,5.0,nan
+827.0,BMW 6 Series Gran Coupe,Kochi,2014.0,33128.0,Diesel,Automatic,First,17.54,2993.0,313.0,4.0,nan
+828.0,Maruti Alto K10 VXI,Chennai,2018.0,7300.0,Petrol,Manual,Second,24.07,998.0,67.1,5.0,4.5
+829.0,Hyundai i20 1.4 Sportz,Kolkata,2016.0,53416.0,Diesel,Manual,First,22.54,1396.0,88.73,5.0,nan
+830.0,Toyota Etios G,Chennai,2011.0,47000.0,Petrol,Manual,Second,17.6,1496.0,88.73,5.0,nan
+831.0,Hyundai Sonata Embera 2.0L CRDi MT,Ahmedabad,2008.0,72002.0,Diesel,Manual,Second,13.6,1991.0,142.0,5.0,nan
+832.0,Skoda Rapid 1.5 TDI AT Ambition,Pune,2016.0,47000.0,Diesel,Automatic,First,21.72,1498.0,108.4,5.0,15.11
+833.0,Audi A6 2011-2015 35 TDI Technology,Coimbatore,2016.0,47634.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+834.0,Volkswagen Polo 1.2 MPI Highline,Ahmedabad,2015.0,62000.0,Petrol,Manual,First,16.47,1198.0,74.0,5.0,nan
+835.0,Ford Classic 1.4 Duratorq CLXI,Chennai,2013.0,65000.0,Diesel,Manual,Second,19.68,1399.0,67.0,5.0,nan
+836.0,Renault Koleos 4X2 MT,Hyderabad,2014.0,92448.0,Diesel,Manual,First,17.15,1995.0,147.9,5.0,nan
+837.0,Ford Ecosport 1.5 DV5 MT Ambiente,Chennai,2014.0,68000.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+838.0,Land Rover Freelander 2 TD4 SE,Mumbai,2011.0,87000.0,Diesel,Automatic,First,0.0,2179.0,115.0,5.0,nan
+839.0,Honda Amaze E i-DTEC,Pune,2016.0,108000.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+840.0,Volvo V40 Cross Country D3,Chennai,2015.0,60000.0,Diesel,Automatic,First,23.3,1984.0,150.0,5.0,nan
+841.0,Hyundai i10 Magna,Chennai,2011.0,82000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+842.0,Ford Figo 1.2P Titanium MT,Jaipur,2016.0,26189.0,Petrol,Manual,First,18.16,1196.0,86.8,5.0,nan
+843.0,Maruti Ciaz VDi Option SHVS,Jaipur,2016.0,26300.0,Diesel,Manual,First,28.09,1248.0,88.5,5.0,nan
+844.0,Toyota Fortuner 4x2 AT TRD Sportivo,Mumbai,2016.0,35000.0,Diesel,Automatic,First,12.55,2982.0,168.7,7.0,nan
+845.0,Tata Indica Vista Terra Quadrajet 1.3L BS IV,Pune,2010.0,67000.0,Diesel,Manual,First,18.0,1248.0,75.0,5.0,nan
+846.0,Hyundai EON Magna,Jaipur,2012.0,42285.0,Petrol,Manual,First,22.0,814.0,55.0,5.0,nan
+847.0,Mahindra KUV 100 mFALCON G80 K6 Plus,Kolkata,2017.0,7000.0,Petrol,Manual,First,18.15,1198.0,82.0,6.0,nan
+848.0,Hyundai i20 1.2 Spotz,Pune,2016.0,42000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+849.0,Hyundai Santro Xing GLS,Kochi,2015.0,56967.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+850.0,Mercedes-Benz GLA Class 220 d 4MATIC,Coimbatore,2019.0,29566.0,Diesel,Automatic,First,17.9,2143.0,170.0,5.0,49.12
+851.0,Maruti Wagon R Stingray LXI,Kochi,2015.0,41836.0,Petrol,Manual,First,20.51,998.0,67.04,5.0,nan
+852.0,Mahindra Bolero Power Plus ZLX,Coimbatore,2018.0,19764.0,Diesel,Manual,First,16.5,1493.0,70.0,7.0,10.51
+853.0,Tata Indica Vista Aura 1.3 Quadrajet,Kolkata,2009.0,134000.0,Diesel,Manual,First,18.0,1248.0,75.0,5.0,nan
+854.0,Hyundai Elite i20 Petrol Sportz,Delhi,2018.0,8321.0,Petrol,Manual,First,18.6,1197.0,81.86,5.0,nan
+855.0,Tata Indica Vista TDI LS,Pune,2015.0,174000.0,Diesel,Manual,First,19.1,1405.0,70.0,5.0,nan
+856.0,Toyota Qualis FS B3,Pune,2002.0,119613.0,Diesel,Manual,Second,13.1,2446.0,75.0,10.0,nan
+857.0,Maruti Swift Dzire LXI,Chennai,2017.0,21000.0,Petrol,Manual,First,20.85,1197.0,83.14,5.0,nan
+858.0,Volkswagen Vento 1.5 TDI Highline,Mumbai,2015.0,55600.0,Diesel,Manual,First,20.34,1498.0,103.2,5.0,nan
+859.0,Fiat Linea Classic 1.3 Multijet,Kolkata,2014.0,61000.0,Diesel,Manual,First,19.5,1248.0,75.0,5.0,8.65
+860.0,Honda Brio S MT,Pune,2013.0,38428.0,Petrol,Manual,Second,19.4,1198.0,86.8,5.0,nan
+861.0,BMW 5 Series 520d Sedan,Chennai,2009.0,95000.0,Diesel,Automatic,Second,18.48,nan,nan,nan,nan
+862.0,Hyundai i20 1.2 Asta,Mumbai,2012.0,18000.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+863.0,Ford Endeavour 2.2 Titanium AT 4X2,Chennai,2019.0,7000.0,Diesel,Automatic,First,12.62,2198.0,158.0,7.0,nan
+864.0,Hyundai i20 1.2 Asta,Kochi,2016.0,24779.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+865.0,Maruti Wagon R VXI 1.2,Kochi,2019.0,17431.0,Petrol,Manual,First,21.5,1197.0,81.8,5.0,5.79
+866.0,Mahindra Scorpio VLS 2.2 mHawk,Chennai,2008.0,88000.0,Diesel,Manual,First,12.05,2179.0,120.0,8.0,nan
+867.0,Maruti Wagon R LXI,Kochi,2015.0,29347.0,Petrol,Manual,First,22.5,998.0,67.04,5.0,5.04
+868.0,Maruti Ciaz VDi,Ahmedabad,2015.0,24000.0,Diesel,Manual,First,26.21,1248.0,88.5,5.0,nan
+869.0,Audi A4 35 TDI Premium Plus,Coimbatore,2016.0,60249.0,Diesel,Automatic,First,18.25,1968.0,187.74,5.0,53.14
+870.0,Maruti Ciaz 1.4 Zeta,Mumbai,2017.0,15000.0,Petrol,Manual,First,20.73,1373.0,91.1,5.0,nan
+871.0,Ford Freestyle Titanium Plus Diesel,Kolkata,2018.0,3013.0,Diesel,Manual,First,24.4,1498.0,98.63,5.0,9.12
+872.0,Toyota Etios GD,Kolkata,2013.0,60000.0,Diesel,Manual,First,23.59,1364.0,null bhp,5.0,nan
+873.0,Mahindra XUV500 W8 4WD,Hyderabad,2013.0,83503.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+874.0,Chevrolet Cruze LTZ,Mumbai,2011.0,69000.0,Diesel,Manual,Second,18.3,1991.0,147.9,5.0,nan
+875.0,Hyundai EON D Lite Plus Option,Kolkata,2018.0,54000.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+876.0,Maruti Ritz VDi,Bangalore,2013.0,49000.0,Diesel,Manual,First,23.2,1248.0,73.94,5.0,nan
+877.0,Toyota Etios Liva GD,Hyderabad,2013.0,86000.0,Diesel,Manual,First,23.59,1364.0,null bhp,5.0,nan
+878.0,Maruti Wagon R VXI,Chennai,2010.0,36000.0,Petrol,Manual,Second,22.5,998.0,67.04,5.0,5.51
+879.0,Ford EcoSport 1.5 Ti VCT MT Titanium,Coimbatore,2018.0,12899.0,Petrol,Manual,First,15.85,1499.0,110.4,5.0,nan
+880.0,Renault Duster 110PS Diesel RxZ AMT,Bangalore,2016.0,56839.0,Diesel,Automatic,First,19.6,1461.0,108.45,5.0,15.05
+881.0,Maruti Swift VVT ZXI,Pune,2012.0,46972.0,Petrol,Manual,First,22.0,1197.0,81.8,5.0,nan
+882.0,Mahindra Xylo D4,Coimbatore,2015.0,96012.0,Diesel,Manual,First,14.95,2489.0,93.7,7.0,11.91
+883.0,Toyota Etios Liva V,Kochi,2012.0,59311.0,Petrol,Manual,First,18.3,nan,nan,nan,nan
+884.0,Honda CR-V 2.4 AT,Ahmedabad,2010.0,90000.0,Petrol,Automatic,Third,10.1,2354.0,152.0,5.0,nan
+885.0,Fiat Punto EVO 1.3 Emotion,Kochi,2016.0,32835.0,Diesel,Manual,First,20.5,1248.0,91.7,5.0,8.6
+886.0,Hyundai Creta 1.6 CRDi AT SX Plus,Kochi,2017.0,60739.0,Diesel,Automatic,First,17.01,1582.0,126.2,5.0,nan
+887.0,Fiat Abarth 595 Competizione,Mumbai,2017.0,19476.0,Petrol,Automatic,First,19.0,1368.0,160.0,4.0,nan
+888.0,Ford Ecosport 1.0 Ecoboost Platinum Edition,Mumbai,2017.0,15000.0,Petrol,Manual,First,18.88,999.0,123.24,5.0,nan
+889.0,Jaguar XF 3.0 Litre S Premium Luxury,Hyderabad,2011.0,53000.0,Diesel,Automatic,First,14.74,2993.0,270.9,5.0,nan
+890.0,Hyundai Grand i10 Sportz,Chennai,2016.0,20000.0,Petrol,Manual,Second,18.9,1197.0,82.0,5.0,nan
+891.0,Mercedes-Benz M-Class ML 320 CDI,Hyderabad,2008.0,67000.0,Diesel,Automatic,First,8.7,2987.0,224.34,5.0,nan
+892.0,Toyota Innova 2.5 V Diesel 7-seater,Bangalore,2009.0,140000.0,Diesel,Manual,Second,12.8,2494.0,102.0,7.0,nan
+893.0,Honda Accord 2.4 AT,Delhi,2011.0,25000.0,Petrol,Automatic,Second,11.7,2354.0,177.6,5.0,nan
+894.0,Maruti Wagon R LXI,Jaipur,2007.0,69000.0,Petrol,Manual,Second,18.9,998.0,67.1,5.0,nan
+895.0,Hyundai i20 1.4 CRDi Magna,Hyderabad,2013.0,65461.0,Diesel,Manual,First,21.9,1396.0,90.0,5.0,nan
+896.0,Maruti Swift VXI,Kolkata,2014.0,33000.0,Petrol,Manual,First,18.6,1197.0,85.8,5.0,nan
+897.0,Honda City 1.5 E MT,Ahmedabad,2011.0,52000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+898.0,Volkswagen Polo 1.2 MPI Comfortline,Kochi,2015.0,29215.0,Petrol,Manual,First,16.47,1198.0,74.0,5.0,nan
+899.0,Hyundai Accent Executive LPG,Jaipur,2010.0,40000.0,LPG,Manual,Second,13.2,1495.0,93.7,5.0,nan
+900.0,ISUZU D-MAX V-Cross 4X4,Jaipur,2017.0,290000.0,Diesel,Manual,First,12.4,2499.0,134.0,5.0,nan
+901.0,Honda BR-V i-VTEC VX MT,Coimbatore,2017.0,14519.0,Petrol,Manual,First,15.4,1497.0,117.3,7.0,15.55
+902.0,Maruti Swift Dzire Tour LDI,Jaipur,2012.0,350000.0,Diesel,Manual,First,23.4,1248.0,74.0,5.0,nan
+903.0,Honda Mobilio V i DTEC,Kolkata,2014.0,39000.0,Diesel,Manual,First,24.2,1498.0,98.6,7.0,nan
+904.0,Maruti Ertiga VXI,Coimbatore,2016.0,40130.0,Petrol,Manual,First,16.02,1373.0,93.7,7.0,nan
+905.0,Mitsubishi Pajero Sport 4X2 AT,Bangalore,2015.0,58000.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,34.1
+906.0,Mercedes-Benz B Class 2012-2015 B200 Sport CDI,Bangalore,2013.0,43000.0,Diesel,Automatic,First,15.0,2147.0,107.3,5.0,nan
+907.0,Maruti Eeco 5 STR With AC Plus HTR CNG,Mumbai,2017.0,15500.0,CNG,Manual,First,15.1,1196.0,73.0,5.0,nan
+908.0,Volkswagen Vento 1.6 Trendline,Mumbai,2011.0,34948.0,Petrol,Manual,First,16.09,1598.0,103.5,5.0,10.36
+909.0,Maruti Versa DX2,Bangalore,2006.0,98245.0,Petrol,Manual,Third,11.3,1298.0,83.1,8.0,nan
+910.0,Honda City i DTEC SV,Delhi,2014.0,36390.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+911.0,Maruti Swift Dzire 1.2 Lxi BSIV,Mumbai,2010.0,122000.0,Petrol,Manual,First,17.5,1197.0,85.8,5.0,nan
+912.0,Volkswagen Vento Diesel Trendline,Ahmedabad,2013.0,79003.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+913.0,Skoda Laura 1.9 TDI AT Ambiente,Kochi,2013.0,78830.0,Diesel,Automatic,Second,17.0,1896.0,105.0,5.0,nan
+914.0,Honda Brio V MT,Mumbai,2011.0,53000.0,Petrol,Manual,First,19.4,1198.0,86.8,5.0,nan
+915.0,Maruti A-Star Vxi,Chennai,2009.0,53000.0,Petrol,Manual,Second,19.0,998.0,66.1,5.0,nan
+916.0,Maruti SX4 VDI,Jaipur,2011.0,82000.0,Diesel,Manual,Second,21.5,1248.0,88.8,5.0,nan
+917.0,Hyundai Elantra 1.6 SX,Mumbai,2013.0,95000.0,Diesel,Manual,First,22.54,1582.0,126.2,5.0,20.69
+918.0,Maruti Alto K10 LXI,Kochi,2017.0,18090.0,Petrol,Manual,First,24.07,998.0,67.1,5.0,4.25
+919.0,Maruti Alto LX,Pune,2004.0,70332.0,Petrol,Manual,Third,19.7,796.0,46.3,5.0,nan
+920.0,Datsun redi-GO T Option,Jaipur,2018.0,46000.0,Petrol,Manual,First,22.7,799.0,53.64,5.0,3.99
+921.0,Ford Ecosport 1.5 DV5 MT Titanium Optional,Kochi,2015.0,63402.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+922.0,Honda City i DTec SV,Kolkata,2017.0,13000.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+923.0,Mercedes-Benz New C-Class C 250 CDI Elegance,Pune,2010.0,65505.0,Diesel,Automatic,First,14.94,2143.0,204.0,5.0,nan
+924.0,Hyundai Sonata Embera 2.4L MT,Pune,2006.0,154000.0,Petrol,Manual,Third,13.2,2359.0,165.0,5.0,nan
+925.0,Chevrolet Spark 1.0 LS,Bangalore,2008.0,85142.0,Petrol,Manual,Second,18.0,995.0,62.0,5.0,nan
+926.0,Volkswagen Polo 1.2 MPI Highline,Jaipur,2016.0,45000.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+927.0,Hyundai i10 Sportz 1.2,Delhi,2011.0,48000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+928.0,Toyota Etios Liva G,Delhi,2012.0,77800.0,Petrol,Manual,First,18.3,1197.0,null bhp,5.0,nan
+929.0,Maruti Alto K10 VXI,Kochi,2016.0,39549.0,Petrol,Manual,First,24.07,998.0,67.1,5.0,4.09
+930.0,Honda CR-V 2.4 AT,Kochi,2011.0,100922.0,Petrol,Automatic,Second,10.1,2354.0,152.0,5.0,nan
+931.0,Hyundai Verna 1.6 VTVT EX AT,Chennai,2013.0,55000.0,Petrol,Automatic,First,17.01,1591.0,121.4,5.0,nan
+932.0,Mercedes-Benz New C-Class C 250 CDI Elegance,Hyderabad,2011.0,45000.0,Diesel,Automatic,Second,14.94,2143.0,204.0,5.0,nan
+933.0,Honda Amaze VX CVT i-VTEC,Jaipur,2017.0,145000.0,Petrol,Automatic,First,18.1,1199.0,88.7,5.0,nan
+934.0,Mahindra Xylo E8,Kolkata,2011.0,45000.0,Diesel,Manual,First,14.0,2498.0,112.0,8.0,nan
+935.0,Hyundai Sonata Transform 2.4 GDi AT,Bangalore,2012.0,44000.0,Petrol,Automatic,First,12.37,2359.0,198.25,5.0,nan
+936.0,Hyundai Creta 1.4 CRDi S Plus,Bangalore,2015.0,48000.0,Diesel,Manual,First,21.38,1396.0,88.7,5.0,nan
+937.0,Toyota Innova 2.5 G4 Diesel 7-seater,Kochi,2011.0,64139.0,Diesel,Manual,First,12.8,2494.0,102.0,7.0,nan
+938.0,Honda Jazz 2020 Petrol,Kochi,2019.0,11574.0,Petrol,Manual,First,0.0,1199.0,88.7,nan,nan
+939.0,Maruti Alto 800 CNG LXI,Kolkata,2013.0,14311.0,CNG,Manual,First,30.46,796.0,47.3,5.0,nan
+940.0,Hyundai i20 Magna 1.2,Bangalore,2016.0,20000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+941.0,Mercedes-Benz SLC 43 AMG,Coimbatore,2018.0,18338.0,Petrol,Automatic,First,19.0,2996.0,362.07,2.0,1.06 Cr
+942.0,Hyundai i20 1.4 Sportz,Kochi,2019.0,17964.0,Diesel,Manual,First,22.54,1396.0,88.73,5.0,nan
+943.0,Toyota Fortuner 4x2 4 Speed AT,Hyderabad,2012.0,55500.0,Diesel,Automatic,First,11.5,2982.0,169.0,7.0,nan
+944.0,Mahindra Scorpio VLX 2WD Airbag BSIII,Chennai,2008.0,130000.0,Diesel,Manual,Second,12.05,2179.0,120.0,8.0,nan
+945.0,Mercedes-Benz GLE 350d,Hyderabad,2016.0,50000.0,Diesel,Automatic,First,11.57,2987.0,254.79,5.0,92.01
+946.0,Volkswagen Polo 1.2 MPI Highline,Mumbai,2015.0,49830.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+947.0,BMW 5 Series 2003-2012 520d,Kolkata,2009.0,49000.0,Diesel,Automatic,First,18.48,1995.0,177.0,5.0,nan
+948.0,Ford Ecosport 1.5 DV5 MT Ambiente,Kolkata,2013.0,53967.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+949.0,Maruti SX4 Zxi BSIII,Mumbai,2011.0,54000.0,Petrol,Manual,First,15.0,1586.0,104.68,5.0,nan
+950.0,Hyundai i20 1.4 Asta AT (O) with Sunroof,Hyderabad,2009.0,75000.0,Petrol,Automatic,First,15.0,1396.0,100.0,5.0,nan
+951.0,Hyundai Xcent 1.1 CRDi S,Pune,2016.0,100000.0,Diesel,Manual,First,24.4,1120.0,71.0,5.0,nan
+952.0,Renault Lodgy 110PS RxL,Chennai,2015.0,142000.0,Diesel,Manual,First,19.98,1461.0,108.5,8.0,nan
+953.0,Renault Duster 110PS Diesel RxZ,Jaipur,2012.0,83388.0,Diesel,Manual,Second,19.01,1461.0,108.45,5.0,nan
+954.0,Maruti Swift Dzire VXi,Delhi,2012.0,62000.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+955.0,Honda City i DTec VX,Kolkata,2016.0,61000.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+956.0,Audi A4 3.0 TDI Quattro Premium,Bangalore,2011.0,45000.0,Diesel,Automatic,First,14.94,2967.0,241.4,5.0,nan
+957.0,Mercedes-Benz E-Class 250 D W 124,Bangalore,2013.0,33000.0,Diesel,Manual,First,10.0,1796.0,157.7,5.0,nan
+958.0,Toyota Innova 2.5 LE 2014 Diesel 8 Seater,Pune,2014.0,113565.0,Diesel,Manual,First,12.99,2494.0,100.6,8.0,nan
+959.0,Volkswagen Jetta 2007-2011 2.0 TDI Trendline,Hyderabad,2008.0,131000.0,Diesel,Manual,First,15.0,1896.0,105.0,5.0,nan
+960.0,Mahindra Bolero ZLX,Delhi,2015.0,72253.0,Diesel,Manual,First,15.96,2523.0,62.1,7.0,10.94
+961.0,Maruti Swift Dzire VXI,Coimbatore,2016.0,46346.0,Petrol,Manual,First,20.85,1197.0,83.14,5.0,nan
+962.0,Honda City 1.5 V MT,Hyderabad,2016.0,37000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+963.0,Hyundai Grand i10 1.2 CRDi Sportz,Coimbatore,2019.0,56371.0,Diesel,Manual,First,24.0,1186.0,73.97,5.0,8.28
+964.0,Tata Indigo CS eVX,Pune,2016.0,98500.0,Diesel,Manual,First,25.0,1396.0,69.01,5.0,nan
+965.0,Maruti Baleno Zeta 1.3,Ahmedabad,2015.0,71588.0,Diesel,Manual,First,27.39,1248.0,74.0,5.0,nan
+966.0,Maruti Alto 800 2016-2019 LXI,Ahmedabad,2014.0,68000.0,Petrol,Manual,First,24.7,796.0,47.3,5.0,nan
+967.0,Mercedes-Benz E-Class E240 V6 AT,Mumbai,2003.0,66800.0,Petrol,Automatic,Second,11.2,2497.0,203.0,5.0,nan
+968.0,Maruti Swift Dzire Vdi BSIV,Chennai,2016.0,90000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+969.0,Nissan Terrano XE 85 PS,Jaipur,2013.0,54000.0,Diesel,Manual,First,20.45,1461.0,83.8,5.0,nan
+970.0,Mercedes-Benz New C-Class C 200 CGI,Mumbai,2011.0,87248.0,Petrol,Automatic,Second,14.74,1991.0,184.0,5.0,nan
+971.0,Maruti Celerio VXI,Pune,2017.0,9052.0,Petrol,Manual,First,23.1,998.0,67.04,5.0,nan
+972.0,Hyundai Santro Xing GLS,Delhi,2014.0,67320.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+973.0,Volkswagen Polo 1.2 MPI Highline,Kochi,2018.0,28635.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+974.0,Mahindra Bolero ZLX,Kochi,2016.0,78904.0,Diesel,Manual,First,15.96,2523.0,62.1,7.0,10.94
+975.0,BMW 5 Series 2013-2017 530d M Sport,Kochi,2018.0,16409.0,Diesel,Automatic,First,14.69,2993.0,258.0,5.0,nan
+976.0,Honda City 1.5 V MT Sunroof,Delhi,2012.0,61180.0,Petrol,Manual,Second,16.8,1497.0,116.3,5.0,nan
+977.0,Hyundai i20 Sportz 1.2,Delhi,2014.0,59577.0,Petrol,Manual,Second,18.5,1197.0,82.85,5.0,nan
+978.0,Toyota Innova 2.5 GX (Diesel) 8 Seater BS IV,Mumbai,2016.0,24104.0,Diesel,Manual,First,12.99,2494.0,100.0,8.0,nan
+979.0,BMW 5 Series 2007-2010 525d Sedan,Mumbai,2008.0,69000.0,Diesel,Automatic,Third,16.73,2495.0,218.0,5.0,nan
+980.0,Volkswagen Polo GT TSI,Bangalore,2015.0,35000.0,Petrol,Automatic,First,17.21,1197.0,103.6,5.0,nan
+981.0,Mitsubishi Pajero Sport 4X2 AT,Ahmedabad,2014.0,75000.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,32.41
+982.0,Maruti Ertiga VXI,Jaipur,2014.0,98000.0,Petrol,Manual,First,16.02,1373.0,93.7,7.0,nan
+983.0,Audi A6 2011-2015 2.0 TDI Technology,Chennai,2014.0,51843.0,Diesel,Automatic,Third,17.68,1968.0,174.33,5.0,nan
+984.0,Maruti Swift Dzire VDI,Jaipur,2013.0,80000.0,Diesel,Manual,Second,23.4,1248.0,74.0,5.0,nan
+985.0,Toyota Fortuner 3.0 Diesel,Pune,2009.0,110000.0,Diesel,Manual,Third,11.5,2982.0,171.0,7.0,nan
+986.0,Hyundai i10 Sportz 1.1L,Kochi,2015.0,75383.0,Petrol,Manual,First,19.81,1086.0,68.05,5.0,nan
+987.0,Mahindra TUV 300 2015-2019 T8 AMT,Kochi,2017.0,31861.0,Diesel,Automatic,First,18.49,1493.0,100.0,7.0,nan
+988.0,Mercedes-Benz New C-Class C 220 CDI CLASSIC,Mumbai,2011.0,57900.0,Diesel,Manual,First,15.8,2148.0,170.0,5.0,nan
+989.0,Maruti Swift Dzire Ldi BSIV,Delhi,2014.0,48000.0,Diesel,Manual,First,19.3,1248.0,73.9,5.0,nan
+990.0,Hyundai i20 Magna,Kochi,2015.0,33544.0,Petrol,Manual,First,18.5,1197.0,82.85,5.0,nan
+991.0,Maruti Swift VDI BSIV,Chennai,2015.0,65000.0,Diesel,Manual,First,25.2,1248.0,74.0,5.0,nan
+992.0,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2017.0,103189.0,Diesel,Manual,First,13.68,2393.0,147.8,8.0,24.01
+993.0,Toyota Etios V,Kochi,2017.0,35007.0,Petrol,Manual,First,16.78,1496.0,88.73,5.0,nan
+994.0,Toyota Corolla Altis Diesel D4DG,Pune,2010.0,98000.0,Diesel,Manual,First,21.43,1364.0,87.2,5.0,nan
+995.0,Hyundai Grand i10 1.2 CRDi Magna,Hyderabad,2017.0,25678.0,Diesel,Manual,First,24.0,1186.0,73.97,5.0,7.9
+996.0,Maruti SX4 ZDI,Coimbatore,2015.0,65636.0,Diesel,Manual,First,21.79,1248.0,88.73,5.0,nan
+997.0,Audi A6 2011-2015 35 TDI Premium,Kochi,2015.0,21730.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+998.0,Honda Amaze S i-Vtech,Chennai,2013.0,46112.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+999.0,Hyundai i20 Magna 1.2,Kolkata,2015.0,20000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+1000.0,Mahindra XUV500 W6 2WD,Hyderabad,2013.0,67000.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+1001.0,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Ahmedabad,2016.0,29000.0,Diesel,Automatic,First,13.0,2143.0,204.0,5.0,nan
+1002.0,Hyundai Verna 1.4 CRDi,Pune,2014.0,86000.0,Diesel,Manual,First,24.8,1396.0,88.7,5.0,nan
+1003.0,Honda Amaze EX i-Vtech,Hyderabad,2013.0,34000.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+1004.0,Audi A4 2.0 TDI Premium Sport Limited Edition,Bangalore,2014.0,36000.0,Diesel,Automatic,First,17.11,1968.0,174.33,5.0,nan
+1005.0,Hyundai i10 Magna,Mumbai,2013.0,49000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+1006.0,Tata Tigor 1.2 Revotron XT,Mumbai,2017.0,7000.0,Petrol,Manual,First,20.3,1199.0,84.0,5.0,nan
+1007.0,Hyundai Xcent 1.1 CRDi S,Kolkata,2014.0,60188.0,Diesel,Manual,First,24.4,1120.0,71.0,5.0,nan
+1008.0,Ford Figo Diesel ZXI,Ahmedabad,2012.0,79000.0,Diesel,Manual,First,20.0,1399.0,68.0,5.0,nan
+1009.0,Toyota Innova 2.5 GX (Diesel) 7 Seater,Chennai,2012.0,115439.0,Diesel,Manual,Second,12.99,2494.0,100.0,7.0,nan
+1010.0,Hyundai i20 2015-2017 1.4 CRDi Sportz,Pune,2011.0,104500.0,Diesel,Manual,Second,23.0,1396.0,90.0,5.0,nan
+1011.0,Mercedes-Benz E-Class E250 CDI Launch Edition,Delhi,2013.0,35000.0,Diesel,Automatic,First,13.0,2143.0,204.0,5.0,nan
+1012.0,Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2016.0,26186.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+1013.0,Chevrolet Spark 1.0 LT,Pune,2012.0,58061.0,Petrol,Manual,First,18.0,995.0,62.0,5.0,nan
+1014.0,Hyundai i20 1.4 CRDi Sportz,Ahmedabad,2011.0,62000.0,Diesel,Manual,First,23.0,1396.0,90.0,5.0,nan
+1015.0,Maruti Swift Dzire VDI,Mumbai,2013.0,118000.0,Diesel,Manual,Second,23.4,1248.0,74.0,5.0,nan
+1016.0,Hyundai i10 Magna 1.2,Chennai,2009.0,65000.0,Petrol,Manual,First,20.36,1197.0,78.9,5.0,nan
+1017.0,Hyundai Santro Xing GLS,Hyderabad,2008.0,44379.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+1018.0,Ford Ecosport 1.5 DV5 MT Ambiente,Kochi,2017.0,61041.0,Diesel,Manual,First,22.7,1498.0,89.84,5.0,nan
+1019.0,Ford Fiesta Classic 1.4 Duratorq CLXI,Bangalore,2011.0,73000.0,Diesel,Manual,Second,17.8,1399.0,67.0,5.0,nan
+1020.0,Hyundai Creta 1.6 CRDi AT SX Plus,Pune,2016.0,57297.0,Diesel,Automatic,First,17.01,1582.0,126.2,5.0,nan
+1021.0,Hyundai Creta 1.6 VTVT Base,Hyderabad,2015.0,28700.0,Petrol,Manual,Second,15.29,1591.0,121.3,5.0,nan
+1022.0,Honda City 1.5 V MT,Hyderabad,2013.0,85264.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+1023.0,Maruti Ignis 1.2 AMT Delta,Hyderabad,2017.0,20000.0,Petrol,Automatic,First,20.89,1197.0,81.8,5.0,7.21
+1024.0,Honda City i-VTEC CVT ZX,Hyderabad,2017.0,11934.0,Petrol,Automatic,First,18.0,1497.0,117.3,5.0,16.94
+1025.0,Honda City 1.5 V MT,Pune,2010.0,83000.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+1026.0,Ford Fiesta Classic 1.6 Duratec LXI,Hyderabad,2013.0,23000.0,Petrol,Manual,First,15.3,1596.0,99.6,5.0,nan
+1027.0,Hyundai i20 Sportz 1.2,Mumbai,2017.0,14927.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+1028.0,Toyota Corolla Executive (HE),Hyderabad,2007.0,158000.0,Petrol,Manual,Second,13.4,1794.0,125.0,5.0,nan
+1029.0,Nissan Micra Diesel XV,Jaipur,2011.0,111000.0,Diesel,Manual,Third,23.08,1461.0,63.1,5.0,nan
+1030.0,Maruti Alto LXi BSIII,Hyderabad,2011.0,63528.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1031.0,Maruti Ciaz VDi Plus,Jaipur,2015.0,92000.0,Diesel,Manual,First,26.21,1248.0,88.5,5.0,nan
+1032.0,Maruti Ciaz 1.3 Alpha,Delhi,2017.0,41200.0,Diesel,Manual,First,28.09,1248.0,88.5,5.0,nan
+1033.0,Mahindra XUV500 W8 2WD,Coimbatore,2016.0,39052.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+1034.0,Renault Duster 85PS Diesel RxL,Ahmedabad,2014.0,55100.0,Diesel,Manual,First,20.45,1461.0,83.8,5.0,nan
+1035.0,Hyundai i20 1.2 Sportz,Ahmedabad,2011.0,76958.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+1036.0,Renault Pulse RxL,Kochi,2015.0,70419.0,Diesel,Manual,First,23.08,1461.0,63.12,5.0,nan
+1037.0,Maruti Wagon R AMT VXI,Mumbai,2017.0,21000.0,Petrol,Automatic,First,20.51,998.0,67.0,5.0,nan
+1038.0,BMW 6 Series 650i Coupe,Delhi,2009.0,64000.0,Petrol,Automatic,First,7.94,4395.0,450.0,4.0,nan
+1039.0,Honda City V MT,Delhi,2011.0,63698.0,Petrol,Manual,Second,16.8,1497.0,116.3,5.0,nan
+1040.0,Tata Indigo eCS LX BSIV,Coimbatore,2016.0,62715.0,Diesel,Manual,First,23.03,1396.0,69.0,5.0,nan
+1041.0,Honda Brio S MT,Coimbatore,2013.0,37922.0,Petrol,Manual,Second,19.4,1198.0,86.8,5.0,nan
+1042.0,Honda Jazz 1.5 S i DTEC,Ahmedabad,2016.0,52000.0,Diesel,Manual,First,27.3,1498.0,98.6,5.0,nan
+1043.0,Mercedes-Benz A Class A180 CDI,Chennai,2013.0,47000.0,Diesel,Automatic,First,20.0,2143.0,107.3,5.0,nan
+1044.0,Toyota Corolla Altis GL,Mumbai,2009.0,64000.0,Petrol,Manual,Second,14.53,1798.0,138.1,5.0,nan
+1045.0,Honda Civic 2006-2010 1.8 (E) MT,Hyderabad,2007.0,109000.0,Petrol,Manual,Second,13.5,1799.0,130.0,5.0,nan
+1046.0,Hyundai Creta 1.6 CRDi SX Option,Mumbai,2015.0,19000.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+1047.0,Audi Q5 2008-2012 2.0 TFSI Quattro,Ahmedabad,2009.0,99000.0,Petrol,Automatic,Second,9.74,1984.0,208.0,5.0,nan
+1048.0,OpelCorsa 1.4Gsi,Hyderabad,2005.0,50000.0,Petrol,Manual,Second,14.2,1389.0,88.0,5.0,nan
+1049.0,Toyota Fortuner 4x2 AT,Pune,2013.0,105000.0,Diesel,Automatic,Second,12.55,2982.0,168.5,7.0,nan
+1050.0,Hyundai Creta 1.6 VTVT S,Jaipur,2016.0,24000.0,Petrol,Manual,First,15.29,1591.0,121.3,5.0,nan
+1051.0,Volkswagen Ameo 1.5 TDI Highline,Coimbatore,2017.0,23389.0,Diesel,Manual,First,21.66,1498.0,108.62,5.0,10.13
+1052.0,Hyundai i20 Magna,Ahmedabad,2009.0,90000.0,Petrol,Manual,First,18.5,1197.0,80.0,5.0,nan
+1053.0,Audi A6 2011-2015 2.0 TDI Premium Plus,Delhi,2013.0,20000.0,Diesel,Automatic,First,17.68,1968.0,174.33,5.0,nan
+1054.0,Hyundai Grand i10 CRDi Sportz,Jaipur,2014.0,62269.0,Diesel,Manual,First,24.0,1120.0,70.0,5.0,nan
+1055.0,Audi Q3 30 TDI S Edition,Chennai,2015.0,69000.0,Diesel,Manual,First,17.32,1968.0,138.13,5.0,nan
+1056.0,BMW 5 Series 2013-2017 530d M Sport,Kochi,2015.0,58898.0,Diesel,Automatic,First,14.69,2993.0,258.0,5.0,nan
+1057.0,Maruti Swift Dzire AMT ZDI,Coimbatore,2018.0,29110.0,Diesel,Automatic,First,26.59,1248.0,74.0,5.0,nan
+1058.0,Hyundai Grand i10 1.2 Kappa Sportz AT,Kochi,2019.0,34649.0,Petrol,Automatic,First,18.9,1197.0,81.86,5.0,7.96
+1059.0,Honda City i DTEC SV,Kolkata,2017.0,13000.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+1060.0,Hyundai Grand i10 1.2 Kappa Magna,Jaipur,2015.0,25043.0,Petrol,Manual,First,18.9,1197.0,81.86,5.0,6.54
+1061.0,Honda Jazz 1.2 V CVT i VTEC,Coimbatore,2018.0,36611.0,Petrol,Automatic,First,19.0,1199.0,88.7,5.0,nan
+1062.0,Maruti Swift VDi BSIII W/ ABS,Jaipur,2008.0,150000.0,Diesel,Manual,Second,17.8,1248.0,75.0,5.0,nan
+1063.0,Maruti Wagon R VXI,Ahmedabad,2015.0,82000.0,Petrol,Manual,First,22.5,998.0,67.04,5.0,5.27
+1064.0,Maruti Ciaz RS ZDi Plus SHVS,Kochi,2017.0,45158.0,Diesel,Manual,Second,28.09,1248.0,88.5,5.0,nan
+1065.0,Volkswagen Vento 1.2 TSI Comfortline AT,Coimbatore,2016.0,36968.0,Petrol,Automatic,First,16.93,1197.0,103.2,5.0,nan
+1066.0,Maruti Swift VXI BSIV,Coimbatore,2015.0,53556.0,Petrol,Manual,First,20.4,1197.0,81.8,5.0,nan
+1067.0,Skoda Laura Ambition 2.0 TDI CR AT,Bangalore,2013.0,78500.0,Diesel,Automatic,First,20.0,1968.0,138.1,5.0,nan
+1068.0,Hyundai Xcent 1.1 CRDi S Celebration Edition,Jaipur,2017.0,133000.0,Diesel,Manual,First,24.4,1120.0,71.0,5.0,nan
+1069.0,Hyundai Creta 1.6 CRDi SX,Coimbatore,2017.0,33186.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+1070.0,Mercedes-Benz New C-Class C 200 CGI Elegance,Delhi,2012.0,65000.0,Petrol,Automatic,First,11.74,1796.0,186.0,5.0,nan
+1071.0,Maruti Swift VDI,Coimbatore,2015.0,61903.0,Diesel,Manual,First,22.9,1248.0,74.0,5.0,nan
+1072.0,Toyota Etios G,Kolkata,2011.0,25000.0,Petrol,Manual,First,17.6,1496.0,88.73,5.0,nan
+1073.0,Hyundai Santro Xing XG AT eRLX Euro III,Coimbatore,2007.0,64168.0,Petrol,Automatic,First,17.0,1086.0,null bhp,5.0,nan
+1074.0,Maruti Swift Dzire VXI Optional,Hyderabad,2017.0,8044.0,Petrol,Manual,First,20.85,1197.0,83.14,5.0,nan
+1075.0,Audi Q5 3.0 TDI Quattro Technology,Bangalore,2017.0,18000.0,Diesel,Automatic,First,13.22,2967.0,241.4,5.0,nan
+1076.0,Honda City V MT,Mumbai,2013.0,80000.0,Petrol,Manual,First,16.8,1497.0,116.3,5.0,nan
+1077.0,Mahindra KUV 100 mFALCON D75 K6 5str AW,Chennai,2016.0,45000.0,Diesel,Manual,First,25.32,1198.0,77.0,5.0,nan
+1078.0,Mahindra Xylo D4 BSIV,Mumbai,2013.0,78835.0,Diesel,Manual,Second,14.0,2498.0,112.0,8.0,nan
+1079.0,Tata Tiago 1.2 Revotron XT,Kochi,2017.0,30631.0,Petrol,Manual,First,23.84,1199.0,84.0,5.0,5.56
+1080.0,Mahindra Scorpio VLX 2WD BSIII,Hyderabad,2011.0,72573.0,Diesel,Manual,First,12.05,2179.0,120.0,8.0,nan
+1081.0,Toyota Innova Crysta 2.8 GX AT,Delhi,2016.0,10000.0,Diesel,Automatic,First,11.36,2755.0,171.5,7.0,20.74
+1082.0,Maruti Wagon R VXI BSIII,Mumbai,2011.0,50215.0,Petrol,Manual,First,18.9,998.0,67.1,5.0,nan
+1083.0,Maruti 800 AC,Kolkata,2009.0,9999.0,Petrol,Manual,First,16.1,796.0,37.0,4.0,nan
+1084.0,Honda Civic 2006-2010 1.8 MT Sport,Pune,2008.0,110000.0,Petrol,Manual,Second,13.5,1799.0,130.0,5.0,nan
+1085.0,Chevrolet Beat Diesel LS,Jaipur,2013.0,81000.0,Diesel,Manual,First,25.44,936.0,57.6,5.0,nan
+1086.0,Mahindra Thar CRDe,Delhi,2016.0,11000.0,Diesel,Manual,First,16.55,2498.0,105.0,6.0,11.14
+1087.0,Tata Zest Revotron 1.2T XE,Kolkata,2017.0,59000.0,Petrol,Manual,First,17.57,1193.0,88.7,5.0,6.59
+1088.0,Hyundai EON Era Plus,Mumbai,2015.0,8300.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+1089.0,Mahindra Ssangyong Rexton RX7,Mumbai,2016.0,40000.0,Diesel,Automatic,First,11.18,2696.0,184.0,7.0,nan
+1090.0,Hyundai Creta 1.6 CRDi SX Option,Pune,2016.0,83500.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+1091.0,Tata Zest Quadrajet 1.3 75PS XE,Kolkata,2017.0,22000.0,Diesel,Manual,First,22.95,1248.0,74.0,5.0,7.94
+1092.0,Chevrolet Enjoy Petrol LTZ 7 Seater,Mumbai,2013.0,39000.0,Petrol,Manual,First,13.7,1399.0,98.82,7.0,nan
+1093.0,Skoda Superb Elegance 2.0 TDI CR AT,Pune,2013.0,90000.0,Diesel,Automatic,First,17.2,1968.0,138.1,5.0,nan
+1094.0,Hyundai i20 2015-2017 Magna Optional 1.4 CRDi,Pune,2012.0,134487.0,Diesel,Manual,First,21.9,1396.0,88.8,5.0,nan
+1095.0,Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Bangalore,2014.0,65000.0,Diesel,Automatic,First,15.73,1968.0,174.33,5.0,nan
+1096.0,Mahindra Scorpio S6 Plus 7 Seater,Ahmedabad,2015.0,48000.0,Diesel,Manual,First,15.4,2179.0,120.0,7.0,nan
+1097.0,BMW 3 Series 320d,Bangalore,2011.0,60000.0,Diesel,Automatic,First,13.2,1995.0,170.0,5.0,nan
+1098.0,Mercedes-Benz CLA 45 AMG,Kochi,2015.0,23742.0,Petrol,Automatic,First,15.04,1991.0,360.0,5.0,nan
+1099.0,Honda City 1.5 S MT,Hyderabad,2010.0,60268.0,Petrol,Manual,First,17.0,1497.0,118.0,5.0,nan
+1100.0,Maruti Vitara Brezza ZDi,Hyderabad,2016.0,70746.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,11.02
+1101.0,Toyota Camry 2.5 G,Delhi,2014.0,61000.0,Petrol,Automatic,First,12.98,2494.0,178.4,5.0,nan
+1102.0,Maruti Swift Vdi BSIII,Pune,2007.0,102000.0,Diesel,Manual,First,17.8,1248.0,75.0,5.0,nan
+1103.0,Hyundai Elantra SX AT,Bangalore,2016.0,25000.0,Petrol,Automatic,Second,14.5,1797.0,147.4,5.0,nan
+1104.0,Renault Duster 85PS Diesel RxL Optional,Delhi,2013.0,64000.0,Diesel,Manual,First,20.46,1461.0,83.8,5.0,nan
+1105.0,Audi Q5 2008-2012 3.0 TDI Quattro,Hyderabad,2010.0,78265.0,Diesel,Automatic,First,12.19,2967.0,236.0,5.0,nan
+1106.0,Maruti Esteem Vxi - BSIII,Pune,2006.0,76560.0,Petrol,Manual,Third,15.9,1298.0,85.0,5.0,nan
+1107.0,Jeep Compass 2.0 Longitude,Kolkata,2017.0,10000.0,Diesel,Manual,First,17.1,1956.0,170.0,5.0,20.01
+1108.0,Honda City 1.5 V AT,Mumbai,2010.0,52000.0,Petrol,Automatic,First,16.8,1497.0,118.0,5.0,nan
+1109.0,Tata Zest Quadrajet 1.3 75PS XE,Jaipur,2018.0,45000.0,Diesel,Manual,First,22.95,1248.0,74.0,5.0,7.94
+1110.0,Maruti Baleno Zeta 1.2,Kochi,2018.0,29562.0,Petrol,Manual,First,21.4,1197.0,83.1,5.0,nan
+1111.0,Maruti Swift Dzire VDI,Kolkata,2014.0,32000.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+1112.0,Volkswagen Polo 1.2 MPI Highline,Coimbatore,2016.0,22003.0,Petrol,Manual,First,16.2,1199.0,74.0,5.0,nan
+1113.0,Mini Clubman Cooper S,Pune,2017.0,2890.0,Petrol,Manual,First,13.8,1998.0,192.0,5.0,44.59
+1114.0,Mitsubishi Pajero Sport 4X2 AT,Mumbai,2015.0,52000.0,Diesel,Automatic,First,13.5,2477.0,175.56,7.0,32.62
+1115.0,Honda City ZX EXi,Pune,2008.0,100000.0,Petrol,Manual,Second,17.7,1497.0,78.0,5.0,nan
+1116.0,Hyundai EON Era Plus,Jaipur,2013.0,60000.0,Petrol,Manual,Second,21.1,814.0,55.2,5.0,nan
+1117.0,Chevrolet Spark 1.0 PS,Jaipur,2010.0,6512.0,Petrol,Manual,First,16.0,995.0,63.0,5.0,nan
+1118.0,Maruti Alto LXi,Kolkata,2008.0,39008.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1119.0,Toyota Corolla Executive (HE),Chennai,2003.0,136441.0,Petrol,Manual,First,13.4,1794.0,125.0,5.0,nan
+1120.0,Hyundai i20 1.2 Sportz Option,Kolkata,2012.0,36200.0,Petrol,Manual,First,17.0,1197.0,80.0,5.0,nan
+1121.0,Hyundai Verna 1.4 CRDi,Kolkata,2015.0,32506.0,Diesel,Manual,First,24.8,1396.0,88.7,5.0,nan
+1122.0,Chevrolet Enjoy 1.4 LTZ 8,Pune,2016.0,67000.0,Petrol,Manual,First,13.7,1399.0,98.79,8.0,nan
+1123.0,Fiat Grande Punto 1.4 Emotion,Pune,2011.0,59800.0,Petrol,Manual,Second,14.6,1368.0,88.7,5.0,nan
+1124.0,Mahindra XUV500 W8 4WD,Coimbatore,2015.0,63008.0,Diesel,Manual,First,15.1,2179.0,140.0,7.0,nan
+1125.0,Maruti Vitara Brezza ZDi AMT,Coimbatore,2018.0,57804.0,Diesel,Automatic,First,24.3,1248.0,88.5,5.0,11.59
+1126.0,Toyota Etios Liva G,Kolkata,2012.0,37212.0,Petrol,Manual,First,18.3,1197.0,null bhp,5.0,nan
+1127.0,Hyundai Creta 1.6 CRDi SX,Jaipur,2015.0,65000.0,Diesel,Manual,First,19.67,1582.0,126.2,5.0,nan
+1128.0,Hyundai Santro Xing GLS,Coimbatore,2009.0,61259.0,Petrol,Manual,First,17.92,1086.0,62.1,5.0,nan
+1129.0,Hyundai i20 1.4 Asta (AT),Chennai,2010.0,50000.0,Petrol,Automatic,Second,15.0,1396.0,100.0,5.0,nan
+1130.0,Hyundai Elantra CRDi,Mumbai,2006.0,183513.0,Diesel,Manual,Second,14.9,1991.0,112.2,5.0,nan
+1131.0,Mahindra XUV500 W10 2WD,Delhi,2015.0,66000.0,Diesel,Manual,First,16.0,2179.0,140.0,7.0,nan
+1132.0,Audi A6 2.0 TDI Design Edition,Kochi,2012.0,78979.0,Diesel,Automatic,First,18.53,1968.0,187.74,5.0,nan
+1133.0,Tata Tiago 1.2 Revotron XZ WO Alloy,Bangalore,2016.0,30010.0,Petrol,Manual,First,23.84,1199.0,84.0,5.0,6.46
+1134.0,Mercedes-Benz A Class Edition 1,Kochi,2016.0,27508.0,Diesel,Automatic,First,20.0,2143.0,107.3,5.0,nan
+1135.0,Hyundai Verna 1.6 SX VTVT (O) AT,Mumbai,2014.0,28000.0,Petrol,Automatic,First,17.1,1591.0,121.4,5.0,nan
+1136.0,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Mumbai,2014.0,45000.0,Diesel,Automatic,First,19.27,2143.0,167.62,5.0,nan
+1137.0,BMW 7 Series 740i Sedan,Kochi,2013.0,86107.0,Petrol,Automatic,First,8.45,2979.0,321.0,5.0,nan
+1138.0,Land Rover Range Rover 2.2L Pure,Hyderabad,2015.0,49000.0,Diesel,Automatic,Second,12.7,2179.0,187.7,5.0,nan
+1139.0,Hyundai Creta 1.6 SX Plus Petrol Automatic,Coimbatore,2018.0,32746.0,Petrol,Automatic,First,13.0,1591.0,121.3,5.0,nan
+1140.0,Volkswagen Vento 1.2 TSI Highline AT,Mumbai,2013.0,42758.0,Petrol,Automatic,First,16.93,1197.0,103.2,5.0,nan
+1141.0,Mini Cooper Countryman D,Hyderabad,2013.0,50000.0,Diesel,Automatic,First,23.8,1998.0,112.0,5.0,nan
+1142.0,Volvo S60 D4 KINETIC,Coimbatore,2016.0,90904.0,Diesel,Automatic,First,9.0,1984.0,181.0,5.0,nan
+1143.0,Renault Pulse RxL,Kolkata,2012.0,52612.0,Diesel,Manual,First,23.08,1461.0,63.12,5.0,nan
+1144.0,Honda Amaze SX i-VTEC,Kolkata,2015.0,40000.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+1145.0,Toyota Camry 2.5 G,Delhi,2012.0,80724.0,Petrol,Automatic,First,12.98,2494.0,178.4,5.0,nan
+1146.0,Maruti Alto LXi,Hyderabad,2009.0,62659.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1147.0,Skoda Superb Style 1.8 TSI AT,Kochi,2011.0,72734.0,Petrol,Automatic,Second,14.67,1798.0,177.46,5.0,33.36
+1148.0,Maruti Ertiga ZXI,Pune,2015.0,15000.0,Petrol,Manual,First,17.5,1373.0,91.1,7.0,nan
+1149.0,Audi A4 2.0 TDI,Bangalore,2014.0,65475.0,Diesel,Automatic,First,16.55,1968.0,147.51,5.0,nan
+1150.0,Maruti Ertiga VDI,Chennai,2012.0,71000.0,Diesel,Manual,First,20.77,1248.0,88.76,7.0,nan
+1151.0,Mercedes-Benz New C-Class C 220 CDI Style,Bangalore,2016.0,16000.0,Diesel,Automatic,First,19.27,2143.0,167.62,5.0,nan
+1152.0,Maruti Swift Dzire 1.2 Vxi BSIV,Delhi,2011.0,72329.0,Petrol,Manual,First,17.5,1197.0,85.8,5.0,nan
+1153.0,Mercedes-Benz GLA Class 200 CDI SPORT,Coimbatore,2016.0,49398.0,Diesel,Automatic,First,17.9,2143.0,136.0,5.0,nan
+1154.0,Honda City i VTEC VX Option,Jaipur,2016.0,44147.0,Petrol,Manual,First,17.8,1497.0,117.3,5.0,nan
+1155.0,Maruti Alto LXi BSII,Ahmedabad,2007.0,45000.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1156.0,Toyota Fortuner 3.0 Diesel,Delhi,2011.0,75000.0,Diesel,Manual,First,11.5,2982.0,171.0,7.0,nan
+1157.0,BMW 3 Series Luxury Line,Coimbatore,2017.0,22574.0,Diesel,Automatic,First,21.76,1995.0,190.0,5.0,62.07
+1158.0,Hyundai Elite i20 Petrol Asta,Kochi,2016.0,26642.0,Petrol,Manual,First,18.6,1197.0,81.86,5.0,nan
+1159.0,Honda Amaze VX i-DTEC,Hyderabad,2013.0,81304.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+1160.0,Volkswagen Jetta 2007-2011 2.0 TDI Comfortline,Kolkata,2013.0,46000.0,Diesel,Manual,First,15.0,1896.0,105.0,5.0,nan
+1161.0,Mercedes-Benz S Class 2005 2013 320 L,Hyderabad,2007.0,99000.0,Petrol,Manual,First,13.0,2987.0,210.0,5.0,nan
+1162.0,Hyundai EON Era,Pune,2012.0,36317.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+1163.0,Maruti Zen Estilo LXI BSIII,Pune,2008.0,70000.0,Petrol,Manual,First,18.2,998.0,67.1,5.0,nan
+1164.0,Hyundai Verna CRDi SX,Hyderabad,2009.0,137711.0,Diesel,Manual,First,16.8,1493.0,110.0,5.0,nan
+1165.0,Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2018.0,18980.0,Petrol,Automatic,First,17.0,1591.0,121.3,5.0,15.14
+1166.0,Hyundai i20 Asta Option 1.2,Mumbai,2015.0,31293.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+1167.0,Maruti Baleno Vxi - BSIII,Pune,2004.0,43000.0,Petrol,Manual,Second,15.4,1590.0,94.0,5.0,nan
+1168.0,Honda Jazz 1.5 S i DTEC,Ahmedabad,2016.0,45000.0,Diesel,Manual,First,27.3,1498.0,98.6,5.0,nan
+1169.0,Volkswagen Vento Diesel Comfortline,Kolkata,2012.0,53000.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+1170.0,Hyundai i10 Magna 1.1L,Pune,2011.0,30000.0,Petrol,Manual,First,19.81,1086.0,68.05,5.0,nan
+1171.0,Jeep Compass 2.0 Sport,Delhi,2017.0,13000.0,Diesel,Manual,First,17.1,1956.0,170.0,5.0,19.72
+1172.0,Renault Duster 110PS Diesel RxZ,Delhi,2013.0,62000.0,Diesel,Manual,First,19.01,1461.0,108.45,5.0,nan
+1173.0,Maruti Swift Dzire VXi,Chennai,2012.0,35161.0,Petrol,Manual,First,17.5,1298.0,85.8,5.0,nan
+1174.0,Maruti Alto LXi,Jaipur,2006.0,75000.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1175.0,Tata Nano XTA,Coimbatore,2016.0,53590.0,Petrol,Automatic,First,21.9,624.0,37.48,4.0,nan
+1176.0,Hyundai i10 Era 1.1,Chennai,2008.0,71467.0,Petrol,Manual,First,19.81,1086.0,68.05,5.0,nan
+1177.0,Maruti Alto XCITE,Kochi,2011.0,66287.0,Petrol,Manual,First,19.7,796.0,46.3,5.0,nan
+1178.0,Ford Figo Diesel EXI,Jaipur,2012.0,85000.0,Diesel,Manual,Second,20.0,1399.0,68.0,5.0,nan
+1179.0,Land Rover Discovery 4 TDV6 Auto Diesel,Hyderabad,2012.0,147202.0,Diesel,Automatic,First,11.8,2993.0,241.6,7.0,nan
+1180.0,Honda City i DTec SV,Coimbatore,2016.0,72566.0,Diesel,Manual,First,26.0,1498.0,98.6,5.0,nan
+1181.0,Maruti Ritz LDi,Pune,2015.0,190000.0,Diesel,Manual,First,23.2,1248.0,73.94,5.0,nan
+1182.0,Hyundai Grand i10 1.2 Kappa Sportz Option,Delhi,2017.0,25348.0,Petrol,Manual,First,18.9,1197.0,81.86,5.0,nan
+1183.0,Hyundai Grand i10 AT Asta,Delhi,2014.0,54000.0,Petrol,Automatic,First,18.9,1197.0,82.0,5.0,nan
+1184.0,Hyundai i20 Sportz Option 1.2,Bangalore,2015.0,33000.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+1185.0,BMW 5 Series 2003-2012 520d,Delhi,2011.0,58067.0,Diesel,Automatic,First,18.48,1995.0,177.0,5.0,nan
+1186.0,Mercedes-Benz E-Class E250 CDI Avantgrade,Coimbatore,2015.0,43020.0,Diesel,Automatic,First,13.0,2143.0,201.1,5.0,nan
+1187.0,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Hyderabad,2014.0,27641.0,Diesel,Manual,First,12.99,2494.0,100.0,7.0,nan
+1188.0,Maruti Swift Dzire ZDI,Hyderabad,2016.0,46372.0,Diesel,Manual,First,26.59,1248.0,74.0,5.0,nan
+1189.0,Maruti Alto K10 VXI,Kochi,2016.0,27535.0,Petrol,Manual,First,24.07,998.0,67.1,5.0,4.09
+1190.0,BMW 5 Series 520d Luxury Line,Kochi,2016.0,55615.0,Diesel,Automatic,First,22.48,1995.0,190.0,5.0,67.87
+1191.0,Maruti Vitara Brezza VDi Option,Jaipur,2017.0,19000.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,nan
+1192.0,Hyundai Verna Transform VTVT with Audio,Kolkata,2010.0,47000.0,Petrol,Manual,First,16.2,1599.0,103.2,5.0,nan
+1193.0,Honda City i VTEC VX,Delhi,2015.0,60595.0,Petrol,Manual,First,17.4,1497.0,117.3,5.0,nan
+1194.0,Tata Indica Vista Quadrajet LS,Hyderabad,2013.0,170000.0,Diesel,Manual,First,22.3,1248.0,74.0,5.0,nan
+1195.0,Hyundai i20 Active 1.4 SX,Delhi,2017.0,14301.0,Diesel,Manual,First,21.19,1396.0,88.73,5.0,nan
+1196.0,Audi A6 2011-2015 2.0 TDI,Kochi,2015.0,42741.0,Diesel,Automatic,Second,17.68,1968.0,174.33,5.0,nan
+1197.0,BMW X5 xDrive 30d Design Pure Experience 5 Seater,Delhi,2015.0,31000.0,Diesel,Automatic,Second,15.97,2993.0,258.0,5.0,nan
+1198.0,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Delhi,2017.0,11000.0,Petrol,Manual,First,15.29,1591.0,121.3,5.0,nan
+1199.0,Maruti Vitara Brezza ZDi Plus AMT,Mumbai,2018.0,3800.0,Diesel,Automatic,First,24.3,1248.0,88.5,5.0,12.46
+1200.0,Ford Fiesta 1.4 Duratec EXI,Coimbatore,2009.0,44702.0,Petrol,Manual,First,16.6,1388.0,68.0,5.0,nan
+1201.0,Maruti Dzire AMT VDI,Delhi,2017.0,14300.0,Diesel,Automatic,First,28.4,1248.0,73.75,5.0,9.11
+1202.0,Honda City i-VTEC VX,Coimbatore,2018.0,31542.0,Petrol,Manual,First,17.4,1497.0,117.3,5.0,12.68
+1203.0,Maruti Celerio VXI AT,Chennai,2015.0,31717.0,Petrol,Automatic,First,23.1,998.0,67.04,5.0,nan
+1204.0,Chevrolet Captiva LT,Kochi,2011.0,99120.0,Diesel,Manual,First,11.5,1991.0,147.9,7.0,nan
+1205.0,Datsun GO T Petrol,Chennai,2016.0,36000.0,Petrol,Manual,First,19.83,1198.0,67.0,5.0,5.53
+1206.0,Skoda Superb Petrol Ambition,Delhi,2010.0,40000.0,Petrol,Manual,First,13.1,1798.0,157.8,5.0,nan
+1207.0,Hyundai Santro Xing GL,Ahmedabad,2014.0,41000.0,Petrol,Manual,First,0.0,1086.0,62.0,5.0,nan
+1208.0,Mahindra Renault Logan 1.5 DLE Diesel,Chennai,2007.0,160000.0,Diesel,Manual,Second,19.2,1461.0,65.0,5.0,nan
+1209.0,Tata Tiago 1.05 Revotorq XT Option,Pune,2016.0,41413.0,Diesel,Manual,First,27.28,1047.0,69.0,5.0,7.06
+1210.0,Volkswagen Vento Petrol Highline AT,Mumbai,2011.0,67500.0,Petrol,Automatic,Second,14.4,1598.0,103.6,5.0,nan
+1211.0,Hyundai i20 1.2 Spotz,Pune,2014.0,30315.0,Petrol,Manual,First,18.6,1197.0,81.83,5.0,nan
+1212.0,Ford EcoSport 1.5 Petrol Ambiente,Kochi,2017.0,39015.0,Petrol,Manual,First,17.0,1497.0,121.36,5.0,8.79
+1213.0,Jeep Compass 1.4 Sport,Mumbai,2018.0,6000.0,Petrol,Manual,First,16.0,1368.0,160.0,5.0,18.16
+1214.0,Audi A4 2.0 TDI,Bangalore,2014.0,21143.0,Diesel,Automatic,First,16.55,1968.0,147.51,5.0,nan
+1215.0,Hyundai Verna 1.6 SX VTVT (O),Kochi,2013.0,42203.0,Petrol,Manual,First,17.1,1591.0,121.3,5.0,nan
+1216.0,Maruti Vitara Brezza ZDi,Kochi,2017.0,21380.0,Diesel,Manual,First,24.3,1248.0,88.5,5.0,10.57
+1217.0,Hyundai Elite i20 Magna Plus,Kochi,2018.0,23955.0,Petrol,Manual,First,18.6,1197.0,81.86,5.0,7.08
+1218.0,Honda Amaze S i-Dtech,Kolkata,2013.0,38568.0,Diesel,Manual,First,25.8,1498.0,98.6,5.0,nan
+1219.0,Audi A4 2.0 TDI,Hyderabad,2011.0,64000.0,Diesel,Automatic,First,16.55,1968.0,147.51,5.0,nan
+1220.0,Honda Amaze VX AT i-Vtech,Hyderabad,2014.0,57000.0,Petrol,Automatic,First,15.5,1198.0,86.7,5.0,nan
+1221.0,Honda Jazz 1.5 V i DTEC,Coimbatore,2017.0,44556.0,Diesel,Manual,First,27.3,1498.0,98.6,5.0,nan
+1222.0,BMW 5 Series 525d Sedan,Delhi,2012.0,80000.0,Diesel,Automatic,First,16.73,2993.0,218.0,5.0,nan
+1223.0,Hyundai Grand i10 Asta Option,Kolkata,2015.0,39000.0,Petrol,Manual,First,18.9,1197.0,82.0,5.0,nan
+1224.0,Renault Duster 85PS Diesel RxL,Chennai,2015.0,70000.0,Diesel,Manual,First,19.87,1461.0,83.8,5.0,nan
+1225.0,Chevrolet Aveo 1.4 LS,Pune,2009.0,45463.0,Petrol,Manual,First,14.49,1399.0,92.7,5.0,nan
+1226.0,Honda Amaze S i-Vtech,Kochi,2015.0,44776.0,Petrol,Manual,First,18.0,1198.0,86.7,5.0,nan
+1227.0,Hyundai Grand i10 AT Asta,Coimbatore,2016.0,18242.0,Petrol,Automatic,First,18.9,1197.0,82.0,5.0,nan
+1228.0,Hyundai EON D Lite Plus,Coimbatore,2015.0,21190.0,Petrol,Manual,First,21.1,814.0,55.2,5.0,nan
+1229.0,Volkswagen Vento Diesel Trendline,Hyderabad,2011.0,89411.0,Diesel,Manual,First,20.54,1598.0,103.6,5.0,nan
+1230.0,Volkswagen Polo GT TSI,Mumbai,2015.0,59000.0,Petrol,Automatic,First,17.21,1197.0,103.6,5.0,nan
+1231.0,Nissan Micra Diesel XV,Kolkata,2012.0,28000.0,Diesel,Manual,First,23.08,1461.0,63.1,5.0,nan
+1232.0,Volkswagen Polo GT TSI,Pune,2013.0,52262.0,Petrol,Automatic,Third,17.2,1197.0,103.6,5.0,nan
+1233.0,Mercedes-Benz E-Class 2009-2013 E 220 CDI Avantgarde,Kochi,2014.0,72443.0,Diesel,Automatic,First,10.0,2148.0,170.0,5.0,nan
