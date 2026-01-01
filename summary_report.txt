@@ -1,0 +1,17 @@
+DATA QUALITY SUMMARY
+------------------------------
+: 0 issues detected
+Name: 0 issues detected
+Location: 0 issues detected
+Year: 0 issues detected
+Kilometers_Driven: 0 issues detected
+Fuel_Type: 0 issues detected
+Transmission: 0 issues detected
+Owner_Type: 0 issues detected
+Mileage: 0 issues detected
+Engine: 10 issues detected
+Power: 10 issues detected
+Seats: 11 issues detected
+New_Price: 1052 issues detected
+
+Cleaned file saved as: used_cars_cleaned.csv
